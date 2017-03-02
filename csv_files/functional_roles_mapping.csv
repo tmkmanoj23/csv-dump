@@ -1,0 +1,1401 @@
+fareaId,functionalArea,roleId,role
+1,Accounts / Finance / Tax / CS / Audit,1.01,Accounts Exec./Accountant
+1,Accounts / Finance / Tax / CS / Audit,1.02,Cost Accountant
+1,Accounts / Finance / Tax / CS / Audit,1.03,Taxation(Direct) Mgr
+1,Accounts / Finance / Tax / CS / Audit,1.04,Taxation(Indirect) Mgr
+1,Accounts / Finance / Tax / CS / Audit,1.05,Accounts Mgr
+1,Accounts / Finance / Tax / CS / Audit,1.06,Financial Accountant
+1,Accounts / Finance / Tax / CS / Audit,1.07,ICWA
+1,Accounts / Finance / Tax / CS / Audit,1.08,Chartered Accountant
+1,Accounts / Finance / Tax / CS / Audit,1.09,Finance Exec.
+1,Accounts / Finance / Tax / CS / Audit,1.1,Credit/Control Exec.
+1,Accounts / Finance / Tax / CS / Audit,1.11,Investor Relationship-Exec./Mgr
+1,Accounts / Finance / Tax / CS / Audit,1.12,Credit/Control Mgr
+1,Accounts / Finance / Tax / CS / Audit,1.13,Financial Analyst
+1,Accounts / Finance / Tax / CS / Audit,1.14,Audit Mgr
+1,Accounts / Finance / Tax / CS / Audit,1.15,Forex Mgr
+1,Accounts / Finance / Tax / CS / Audit,1.16,Treasury Mgr
+1,Accounts / Finance / Tax / CS / Audit,1.17,Finance/Budgeting Mgr
+1,Accounts / Finance / Tax / CS / Audit,1.18,Head/VP/GM-Finance/Audit
+1,Accounts / Finance / Tax / CS / Audit,1.19,Head/VP/GM-Accounts
+1,Accounts / Finance / Tax / CS / Audit,1.2,Head/VP/GM-CFO/Financial Controller
+1,Accounts / Finance / Tax / CS / Audit,1.21,Head/VP/GM-Regulatory Affairs
+1,Accounts / Finance / Tax / CS / Audit,1.22,Company Secretary
+1,Accounts / Finance / Tax / CS / Audit,1.23,Outside Consultant
+1,Accounts / Finance / Tax / CS / Audit,1.24,Fresher
+1,Accounts / Finance / Tax / CS / Audit,1.26,Trainee
+,,,
+6,Banking / Insurance,6.01,Cust. Service Exec.
+6,Banking / Insurance,6.02,Cust. Service Mgr
+6,Banking / Insurance,6.03,Collections Officer
+6,Banking / Insurance,6.04,Collections Mgr
+6,Banking / Insurance,6.05,CRM/Phone/Internet Banking Exec.
+6,Banking / Insurance,6.06,Sales Officer
+6,Banking / Insurance,6.07,Credit Officer
+6,Banking / Insurance,6.08,Branch Mgr
+6,Banking / Insurance,6.09,Regional Mgr
+6,Banking / Insurance,6.1,National Head
+6,Banking / Insurance,6.11,Asset Operations/Documentation-Exec./Mgr
+6,Banking / Insurance,6.12,Domestic Private Banking-Exec./Mgr
+6,Banking / Insurance,6.13,Product Mgr-Auto/Home Loans
+6,Banking / Insurance,6.14,Cards-Sales Officer/Exec.
+6,Banking / Insurance,6.15,Cards Operations Exec.
+6,Banking / Insurance,6.16,Cards Operations Mgr
+6,Banking / Insurance,6.17,Collections Exec.
+6,Banking / Insurance,6.18,Card Approvals Officer
+6,Banking / Insurance,6.19,Merchant Acquisition Exec.
+6,Banking / Insurance,6.2,Business Alliances Mgr
+6,Banking / Insurance,6.21,Product Mgr-Cards
+6,Banking / Insurance,6.22,Back Office Exec.
+6,Banking / Insurance,6.23,Money Markets Dealer
+6,Banking / Insurance,6.24,Forex Dealer
+6,Banking / Insurance,6.25,Sales/BD Mgr-Forex
+6,Banking / Insurance,6.26,Forex Operations Mgr
+6,Banking / Insurance,6.27,Debt Instrument Dealer
+6,Banking / Insurance,6.28,Sales/BD Mgr-Debt Instruments
+6,Banking / Insurance,6.29,Debt Operations Mgr
+6,Banking / Insurance,6.3,Derivatives Dealer
+6,Banking / Insurance,6.31,Sales/BD Mgr-Derivatives
+6,Banking / Insurance,6.32,Treasury Operations Mgr
+6,Banking / Insurance,6.33,Clearing Officer
+6,Banking / Insurance,6.34,Cash Officer
+6,Banking / Insurance,6.35,Operations Officer
+6,Banking / Insurance,6.36,Operations Mgr
+6,Banking / Insurance,6.37,Depository Services-Exec./Mgr
+6,Banking / Insurance,6.38,Legal Officer
+6,Banking / Insurance,6.39,Legal Mgr
+6,Banking / Insurance,6.4,Operations Mgr
+6,Banking / Insurance,6.41,Trade Finance Operations Mgr
+6,Banking / Insurance,6.42,Technology Mgr
+6,Banking / Insurance,6.43,ATM Operations Mgr
+6,Banking / Insurance,6.44,Audit Mgr
+6,Banking / Insurance,6.45,Finance/Budgeting Mgr
+6,Banking / Insurance,6.46,Relationship Exec.
+6,Banking / Insurance,6.47,Client Servicing/Key Account Mgr
+6,Banking / Insurance,6.48,Credit Analyst-Corporate Banking
+6,Banking / Insurance,6.49,Credit Mgr-Corporate Banking
+6,Banking / Insurance,6.5,Bad Debts/Workouts Mgr
+6,Banking / Insurance,6.52,Debt Analyst
+6,Banking / Insurance,6.53,Mergers & Acquisitions Analyst
+6,Banking / Insurance,6.54,Equity Analyst
+6,Banking / Insurance,6.55,Equity Mgr
+6,Banking / Insurance,6.56,Domestic Debt Mgr
+6,Banking / Insurance,6.57,Offshore Debt Mgr
+6,Banking / Insurance,6.58,Mergers&Acquisitions Mgr
+6,Banking / Insurance,6.59,Corporate Advisory Mgr
+6,Banking / Insurance,6.6,Project Finance Mgr
+6,Banking / Insurance,6.61,Issues/IPO Mgr
+6,Banking / Insurance,6.62,Legal Officer
+6,Banking / Insurance,6.63,Legal Mgr
+6,Banking / Insurance,6.64,Insurance Analyst
+6,Banking / Insurance,6.65,Actuary Mgr
+6,Banking / Insurance,6.66,Underwriter
+6,Banking / Insurance,6.67,Insurance Advisor
+6,Banking / Insurance,6.68,Unit Mgr
+6,Banking / Insurance,6.69,Sales/BD-Mgr
+6,Banking / Insurance,6.7,Branch Mgr
+6,Banking / Insurance,6.71,Product Mgr
+6,Banking / Insurance,6.72,Sales Head
+6,Banking / Insurance,6.73,Regional Mgr
+6,Banking / Insurance,6.74,Legal Officer
+6,Banking / Insurance,6.75,Legal Mgr
+6,Banking / Insurance,6.77,Insurance Analyst
+6,Banking / Insurance,6.78,Actuary Mgr
+6,Banking / Insurance,6.79,Underwriter
+6,Banking / Insurance,6.8,Head-Underwriting
+6,Banking / Insurance,6.81,Insurance Advisor
+6,Banking / Insurance,6.82,Unit Mgr
+6,Banking / Insurance,6.83,Sales/BD-Mgr
+6,Banking / Insurance,6.84,Branch Mgr
+6,Banking / Insurance,6.85,Product Mgr
+6,Banking / Insurance,6.86,Sales Head
+6,Banking / Insurance,6.87,Regional Mgr
+6,Banking / Insurance,6.88,Legal Officer
+6,Banking / Insurance,6.89,Legal Mgr
+6,Banking / Insurance,6.9,Banc Assurance
+6,Banking / Insurance,6.91,Insurance Operations Officer
+6,Banking / Insurance,6.92,Insurance Operations Mgr
+6,Banking / Insurance,6.93,CRM/Cust. Service Exec.
+6,Banking / Insurance,6.94,CRM/Cust. Service Mgr
+6,Banking / Insurance,6.95,Claims Exec.
+6,Banking / Insurance,6.96,Claims Mgr
+6,Banking / Insurance,6.97,Investment/Treasury Mgr
+6,Banking / Insurance,6.98,Analyst
+6,Banking / Insurance,6.99,Broker/Trader
+6,Banking / Insurance,6.1,Sales/BD Mgr-Broking
+6,Banking / Insurance,6.101,Sales Exec./Investment Advisor
+6,Banking / Insurance,6.102,Sales/BD Mgr
+6,Banking / Insurance,6.103,Mktg Mgr
+6,Banking / Insurance,6.104,Portfolio Mgr
+6,Banking / Insurance,6.105,Analyst
+6,Banking / Insurance,6.106,CRM/Cust. Service Exec.
+6,Banking / Insurance,6.107,CRM/Cust. Service Mgr
+6,Banking / Insurance,6.108,Operations Exec.
+6,Banking / Insurance,6.109,Operations Mgr
+6,Banking / Insurance,6.11,Fund Mgr-Debt
+6,Banking / Insurance,6.111,Fund Mgr-Equity
+6,Banking / Insurance,6.112,Private Equity/Hedge Fund/VC-Mgr
+6,Banking / Insurance,6.113,Head/VP/GM-Treasury
+6,Banking / Insurance,6.114,Head/VP/GM-Legal
+6,Banking / Insurance,6.115,Head/VP/GM-Operations
+6,Banking / Insurance,6.116,Head/VP/GM-CFO/Financial Controller
+6,Banking / Insurance,6.117,Head/VP/GM-Depository Services
+6,Banking / Insurance,6.118,Head/VP/GM-Relationships
+6,Banking / Insurance,6.119,Head/VP/GM-Credit/Risk
+6,Banking / Insurance,6.12,Head/VP/GM-Equity
+6,Banking / Insurance,6.121,Head/VP/GM-Domestic/Offshore Debt
+6,Banking / Insurance,6.122,Head/VP/GM-Mergers & Acquisitions
+6,Banking / Insurance,6.123,Head/VP/GM-Corporate Advisory
+6,Banking / Insurance,6.124,Head/VP/GM-Project Finance
+6,Banking / Insurance,6.125,Head/VP/GM-Investment Banking
+6,Banking / Insurance,6.126,Head/VP/GM-Underwritting
+6,Banking / Insurance,6.127,Head/VP/GM-Mktg
+6,Banking / Insurance,6.128,Head/VP/GM-Insurance Operations
+6,Banking / Insurance,6.129,Head/VP/GM-Claims
+6,Banking / Insurance,6.13,Head/VP/GM-Sales
+6,Banking / Insurance,6.131,Head/VP/GM-Fund Management
+6,Banking / Insurance,6.132,Head/VP/GM-Private Equity/HedgeFund/VC
+6,Banking / Insurance,6.133,Head/VP/GM-Broking
+,,,
+21,Engineering Design / R&D,21.01,R&D Exec.
+21,Engineering Design / R&D,21.02,Clinical Research Associate/Scientist
+21,Engineering Design / R&D,21.03,Clinical Research Mgr
+21,Engineering Design / R&D,21.04,Analytical Chemistry Associate/Scientist
+21,Engineering Design / R&D,21.05,Analytical Chemistry Mgr
+21,Engineering Design / R&D,21.06,Chemical Research Associate/Scientist
+21,Engineering Design / R&D,21.07,Chemical Research Mgr
+21,Engineering Design / R&D,21.08,Bio/Pharma Informatics-Associate/Scientist
+21,Engineering Design / R&D,21.09,Formulation Scientists
+21,Engineering Design / R&D,21.1,Microbiologist
+21,Engineering Design / R&D,21.11,Molecular Biology
+21,Engineering Design / R&D,21.13,Nutritionist
+21,Engineering Design / R&D,21.14,Research Scientist
+21,Engineering Design / R&D,21.15,Bio-Tech Research Associate/Scientist
+21,Engineering Design / R&D,21.16,Bio-Tech Research Mgr
+21,Engineering Design / R&D,21.17,Pharmacist/Chemist/Bio Chemist
+21,Engineering Design / R&D,21.18,Bio-Statistician
+21,Engineering Design / R&D,21.19,Lab Technician/Medical Technician/LabStaff
+21,Engineering Design / R&D,21.2,Product Development Exec.
+21,Engineering Design / R&D,21.21,Product Development Mgr
+21,Engineering Design / R&D,21.22,Drug Regulatory Dr.
+21,Engineering Design / R&D,21.23,Documentation/Medical Writing
+21,Engineering Design / R&D,21.24,Regulatory Affairs Mgr
+21,Engineering Design / R&D,21.25,QA&QC-Executive
+21,Engineering Design / R&D,21.26,QA&QC Mgr
+21,Engineering Design / R&D,21.27,Design Engineer
+21,Engineering Design / R&D,21.28,Sr. Design Engineer
+21,Engineering Design / R&D,21.29,Tech. Lead/Project Lead
+21,Engineering Design / R&D,21.3,Head/VP/GM-R&D
+21,Engineering Design / R&D,21.31,Head/VP/GM-Production
+21,Engineering Design / R&D,21.32,Head/VP/GM-Formulations
+21,Engineering Design / R&D,21.33,Head/VP/GM-QA/QC
+21,Engineering Design / R&D,21.34,Head/VP/GM-Regulatory Affairs
+21,Engineering Design / R&D,21.35,Research Associate
+21,Engineering Design / R&D,21.36,Fresher
+21,Engineering Design / R&D,21.39,Postdoc Position/Fellowship
+21,Engineering Design / R&D,21.4,Practical Training/Internship
+21,Engineering Design / R&D,21.38,Trainee
+,,,
+12,HR / Administration / IR,12.01,HR Exec.
+12,HR / Administration / IR,12.02,HR Mgr
+12,HR / Administration / IR,12.03,Recruitment Exec.
+12,HR / Administration / IR,12.04,Recruitment Mgr
+12,HR / Administration / IR,12.05,Pay Roll/Compensation Mgr
+12,HR / Administration / IR,12.06,Performance Mgmt Mgr
+12,HR / Administration / IR,12.07,Industrial/Labour Relations Mgr
+12,HR / Administration / IR,12.08,Training Mgr
+12,HR / Administration / IR,12.09,Admin/Facilities Exec.
+12,HR / Administration / IR,12.1,Admin/Facilities Mgr
+12,HR / Administration / IR,12.11,Head/VP/GM-HR
+12,HR / Administration / IR,12.12,Head/VP/GM-Training & Development
+12,HR / Administration / IR,12.13,Head/VP/GM-Admin & Facilities
+12,HR / Administration / IR,12.14,Head/VP/GM-Recruitment
+12,HR / Administration / IR,12.15,Outside Consultant
+12,HR / Administration / IR,12.17,Trainee
+12,HR / Administration / IR,12.18,Fresher
+,,,
+8,ITES / BPO / KPO / Customer Service / Operations,8.01,Associate/Sr. Associate -(NonTechnical)
+8,ITES / BPO / KPO / Customer Service / Operations,8.02,Associate/Sr. Associate -(Technical)
+8,ITES / BPO / KPO / Customer Service / Operations,8.03,Team Leader -(NonTechnical)
+8,ITES / BPO / KPO / Customer Service / Operations,8.04,Team Leader -(Technical)
+8,ITES / BPO / KPO / Customer Service / Operations,8.05,Asst. Mgr/Mgr -(NonTechnical)
+8,ITES / BPO / KPO / Customer Service / Operations,8.06,Asst. Mgr/Mgr (Technical)
+8,ITES / BPO / KPO / Customer Service / Operations,8.07,Tecalling/Telemarketing Exec.
+8,ITES / BPO / KPO / Customer Service / Operations,8.08,Associate/Sr. Associate -(NonTechnical)
+8,ITES / BPO / KPO / Customer Service / Operations,8.09,Associate/Sr. Associate -(Technical)
+8,ITES / BPO / KPO / Customer Service / Operations,8.1,Team Leader -(NonTechnical)
+8,ITES / BPO / KPO / Customer Service / Operations,8.11,Team Leader -(Technical)
+8,ITES / BPO / KPO / Customer Service / Operations,8.12,Asst. Mgr/Mgr -(Technical)
+8,ITES / BPO / KPO / Customer Service / Operations,8.13,Asst. Mgr / Mgr -(NonTechnical)
+8,ITES / BPO / KPO / Customer Service / Operations,8.14,Process Flow Analyst
+8,ITES / BPO / KPO / Customer Service / Operations,8.15,Business/EDP Analyst
+8,ITES / BPO / KPO / Customer Service / Operations,8.16,BD Mgr
+8,ITES / BPO / KPO / Customer Service / Operations,8.17,Transitions/Migrations Mgr
+8,ITES / BPO / KPO / Customer Service / Operations,8.18,Operations Mgr
+8,ITES / BPO / KPO / Customer Service / Operations,8.19,Infrastructure & Technology Mgr
+8,ITES / BPO / KPO / Customer Service / Operations,8.2,Dialer Mgr
+8,ITES / BPO / KPO / Customer Service / Operations,8.21,Technical/Process Trainer
+8,ITES / BPO / KPO / Customer Service / Operations,8.22,Voice & Accent Trainer
+8,ITES / BPO / KPO / Customer Service / Operations,8.23,Soft Skills Trainer
+8,ITES / BPO / KPO / Customer Service / Operations,8.24,QA/QC Exec.
+8,ITES / BPO / KPO / Customer Service / Operations,8.25,QA/QC Mgr
+8,ITES / BPO / KPO / Customer Service / Operations,8.26,Quality Coach
+8,ITES / BPO / KPO / Customer Service / Operations,8.27,Team Leader-QA/QC
+8,ITES / BPO / KPO / Customer Service / Operations,8.28,Head/VP/GM-Operations
+8,ITES / BPO / KPO / Customer Service / Operations,8.29,Head/VP/GM-Training & Development
+8,ITES / BPO / KPO / Customer Service / Operations,8.3,Head/VP/GM-Transitions
+8,ITES / BPO / KPO / Customer Service / Operations,8.31,Service Delivery Leader
+8,ITES / BPO / KPO / Customer Service / Operations,8.32,Head/VP/GM-QA & QC
+8,ITES / BPO / KPO / Customer Service / Operations,8.33,Medical Transcriptionist
+8,ITES / BPO / KPO / Customer Service / Operations,8.34,Fresher
+8,ITES / BPO / KPO / Customer Service / Operations,8.35,Trainee
+8,ITES / BPO / KPO / Customer Service / Operations,8.36,Outside Consultant
+,,,
+15,Marketing / Advertising / MR /  PR,15.08,Client Servicing Exec.
+15,Marketing / Advertising / MR /  PR,15.09,Client Servicing/Key Account Mgr
+15,Marketing / Advertising / MR /  PR,15.1,Account Director
+15,Marketing / Advertising / MR /  PR,15.11,Creative Director
+15,Marketing / Advertising / MR /  PR,15.12,Media Planning Exec./Mgr
+15,Marketing / Advertising / MR /  PR,15.13,Media Buying Exec./Mgr
+15,Marketing / Advertising / MR /  PR,15.14,Events/Promotion Exec.
+15,Marketing / Advertising / MR /  PR,15.15,Events/Promotion Mgr
+15,Marketing / Advertising / MR /  PR,15.01,Corp. Communication Exec.
+15,Marketing / Advertising / MR /  PR,15.02,Direct Mktg Exec.
+15,Marketing / Advertising / MR /  PR,15.03,Direct Mktg Mgr
+15,Marketing / Advertising / MR /  PR,15.04,Product Exec.
+15,Marketing / Advertising / MR /  PR,15.05,Product/Brand Mgr
+15,Marketing / Advertising / MR /  PR,15.06,Business Alliances Mgr
+15,Marketing / Advertising / MR /  PR,15.07,Mktg Mgr
+15,Marketing / Advertising / MR /  PR,15.16,Art Director/Sr Art Director
+15,Marketing / Advertising / MR /  PR,15.17,Visualiser
+15,Marketing / Advertising / MR /  PR,15.18,Copywriter
+15,Marketing / Advertising / MR /  PR,15.19,Graphic Designer
+15,Marketing / Advertising / MR /  PR,15.2,MR Exec./Mgr
+15,Marketing / Advertising / MR /  PR,15.21,MR Field Supervisor
+15,Marketing / Advertising / MR /  PR,15.22,PR Exec.
+15,Marketing / Advertising / MR /  PR,15.23,PR & Media Relations Mgr
+15,Marketing / Advertising / MR /  PR,15.24,Head/Mgr/GM-Media Planning
+15,Marketing / Advertising / MR /  PR,15.25,Head/Mgr/GM-Media Buying
+15,Marketing / Advertising / MR /  PR,15.26,Head/VP/GM-PR/Corp. Communication
+15,Marketing / Advertising / MR /  PR,15.27,Head/VP/GM-Mktg
+15,Marketing / Advertising / MR /  PR,15.28,Head/VP/GM-Business Alliances
+15,Marketing / Advertising / MR /  PR,15.29,Head/VP/GM- MR
+15,Marketing / Advertising / MR /  PR,15.3,Head/VP/GM-Client Servicing
+15,Marketing / Advertising / MR /  PR,15.31,National Creative Director/VP-Creative
+15,Marketing / Advertising / MR /  PR,15.33,Outside Consultant
+15,Marketing / Advertising / MR /  PR,15.34,Trainee
+15,Marketing / Advertising / MR /  PR,15.35,Fresher
+,,,
+19,Production / Maintenance / Quality,19.01,Industrial Engnr
+19,Production / Maintenance / Quality,19.02,Design Engnr/Mgr
+19,Production / Maintenance / Quality,19.03,Factory Head
+19,Production / Maintenance / Quality,19.04,Engineering Mgr
+19,Production / Maintenance / Quality,19.05,Production Mgr
+19,Production / Maintenance / Quality,19.06,QA/QC Exec.
+19,Production / Maintenance / Quality,19.07,QA/QC Mgr
+19,Production / Maintenance / Quality,19.08,Product Development Exec.
+19,Production / Maintenance / Quality,19.09,Product Development Mgr
+19,Production / Maintenance / Quality,19.1,Workman/Foreman/Technician
+19,Production / Maintenance / Quality,19.11,Service/Maintenance Engnr
+19,Production / Maintenance / Quality,19.12,Service/Maintenance Supervisor
+19,Production / Maintenance / Quality,19.13,Project Mgr-Production/Manufacturing/Maintenance
+19,Production / Maintenance / Quality,19.14,Safety Officer/Mgr
+19,Production / Maintenance / Quality,19.15,Environment Engnr/Officer
+19,Production / Maintenance / Quality,19.16,Health-Officer/Mgr
+19,Production / Maintenance / Quality,19.17,Head/VP/GM-QA/QC
+19,Production / Maintenance / Quality,19.18,Head/VP/GM-Production/Manufacturing/Maintenance
+19,Production / Maintenance / Quality,19.19,Head/VP/GM-Operations
+19,Production / Maintenance / Quality,19.2,SBU Head/Profit Centre Head
+19,Production / Maintenance / Quality,19.21,Head/VP/GM-Regulatory Affairs
+19,Production / Maintenance / Quality,19.22,Outside Consultant
+19,Production / Maintenance / Quality,19.23,Trainee
+19,Production / Maintenance / Quality,19.24,Fresher
+,,,
+22,Sales / BD,22.01,Sales Exec./Officer
+22,Sales / BD,22.02,Counter Sales
+22,Sales / BD,22.03,Medical Rep.
+22,Sales / BD,22.04,Merchandiser
+22,Sales / BD,22.05,Sales/BD Mgr
+22,Sales / BD,22.06,Sales Promotion Mgr
+22,Sales / BD,22.07,Retail Store Mgr
+22,Sales / BD,22.08,Branch Mgr
+22,Sales / BD,22.09,Regional Mgr
+22,Sales / BD,22.1,Sales Exec./Officer
+22,Sales / BD,22.11,Sales/BD Mgr
+22,Sales / BD,22.12,Client Servicing/Key Account Mgr
+22,Sales / BD,22.13,Branch Mgr/Regional Mgr
+22,Sales / BD,22.14,Sales Exec./Officer
+22,Sales / BD,22.15,Sales/BD Mgr
+22,Sales / BD,22.16,Sales Promotion Mgr
+22,Sales / BD,22.17,Banquet Sales Exec./Mgr
+22,Sales / BD,22.18,Institutional Sales/BD Mgr
+22,Sales / BD,22.19,Sales Trainer
+22,Sales / BD,22.2,Telesales/Telemarketing Exec./Officer
+22,Sales / BD,22.21,Sales Promotion Mgr
+22,Sales / BD,22.22,Front Desk/Cashier/Billing
+22,Sales / BD,22.23,Head/VP/GM/National Mgr -Sales
+22,Sales / BD,22.26,Trainee
+22,Sales / BD,22.27,Fresher
+,,,
+11,Secretary / Front Office / Data Entry,11.01,Stenographer/Data Entry Operator
+11,Secretary / Front Office / Data Entry,11.02,Receptionist
+11,Secretary / Front Office / Data Entry,11.03,Secretary/PA
+11,Secretary / Front Office / Data Entry,11.05,Fresher
+11,Secretary / Front Office / Data Entry,11.06,Trainee
+,,,
+20,Site Engineering / Project Management,20.01,Project Mgr-Telecom
+20,Site Engineering / Project Management,20.02,Project Mgr-IT/Software
+20,Site Engineering / Project Management,20.03,Project Mgr-Production/Manufacturing/Maintenance
+20,Site Engineering / Project Management,20.04,Civil Engnr-Telecom
+20,Site Engineering / Project Management,20.05,Civil Engnr-Municipal
+20,Site Engineering / Project Management,20.06,Civil Engnr-Water/Wastewater
+20,Site Engineering / Project Management,20.07,Civil Engnr-Land Development
+20,Site Engineering / Project Management,20.08,Civil Engnr-Aviation
+20,Site Engineering / Project Management,20.09,Civil Engnr-Highway Roadway
+20,Site Engineering / Project Management,20.1,Civil Engnr-Traffic
+20,Site Engineering / Project Management,20.12,Electrical Engnr-Telecom
+20,Site Engineering / Project Management,20.13,Electrical Engnr-Commercial
+20,Site Engineering / Project Management,20.14,Electrical Engnr-Industrial
+20,Site Engineering / Project Management,20.15,Electrical Engnr-Utility
+20,Site Engineering / Project Management,20.17,Geotechnical Engnr
+20,Site Engineering / Project Management,20.18,Mech. Engnr-Telecom
+20,Site Engineering / Project Management,20.19,Mech. Engnr-HVAC
+20,Site Engineering / Project Management,20.2,Mech. Engnr-Plumbing/Fire Protection
+20,Site Engineering / Project Management,20.22,Process Engnr-Plant Design
+20,Site Engineering / Project Management,20.23,Structural Engnr-Bridge
+20,Site Engineering / Project Management,20.24,Structural Engnr-Building
+20,Site Engineering / Project Management,20.26,Geographic Information Systems/GIS
+20,Site Engineering / Project Management,20.27,Construction-General Building
+20,Site Engineering / Project Management,20.28,Construction-Heavy
+20,Site Engineering / Project Management,20.29,Construction-Residential
+20,Site Engineering / Project Management,20.3,Construction-Specialty
+20,Site Engineering / Project Management,20.31,Construction-Construction Management
+20,Site Engineering / Project Management,20.33,Maintenance Engnr
+20,Site Engineering / Project Management,20.35,Fresher
+20,Site Engineering / Project Management,20.36,Trainee
+,,,
+2,Architecture / Interior Design,2.01,Architect
+2,Architecture / Interior Design,2.02,Draughtsman
+2,Architecture / Interior Design,2.03,Project Architect
+2,Architecture / Interior Design,2.04,Naval Architect
+2,Architecture / Interior Design,2.05,Landscape Architect
+2,Architecture / Interior Design,2.06,Town Planner
+2,Architecture / Interior Design,2.08,Interior Designer
+2,Architecture / Interior Design,2.09,Outside Consultant
+2,Architecture / Interior Design,2.1,Fresher
+2,Architecture / Interior Design,2.12,Trainee
+,,,
+5,Content / Journalism ,5.01,Content Developer
+5,Content / Journalism ,5.02,Freelance Journalist
+5,Content / Journalism ,5.03,Business Content Developer
+5,Content / Journalism ,5.04,Fashion Content Developer
+5,Content / Journalism ,5.05,Features Content Developer
+5,Content / Journalism ,5.06,Intnl Business Content Developer
+5,Content / Journalism ,5.07,IT/Technical Content Developer
+5,Content / Journalism ,5.08,Sports Content Developer
+5,Content / Journalism ,5.09,Political Content Developer
+5,Content / Journalism ,5.1,Journalist
+5,Content / Journalism ,5.11,Sub Editor/Reporter
+5,Content / Journalism ,5.12,Sr Sub Editor/Sr Reporter
+5,Content / Journalism ,5.13,Coresspondent/Asst. Editor/AssociateEditor
+5,Content / Journalism ,5.14,Principal Coresspondent/FeaturesWriter/Resident Writer
+5,Content / Journalism ,5.15,Chief of Bureau/Editor in Chief
+5,Content / Journalism ,5.16,Investigative Journalist
+5,Content / Journalism ,5.17,Proof Reader
+5,Content / Journalism ,5.18,Business Editor
+5,Content / Journalism ,5.19,Fashion Editor
+5,Content / Journalism ,5.2,Features Editor
+5,Content / Journalism ,5.21,Intnl Business Editor
+5,Content / Journalism ,5.22,IT/Technical Editor
+5,Content / Journalism ,5.23,Managing Editor
+5,Content / Journalism ,5.24,Sports Editor
+5,Content / Journalism ,5.25,Political Editor
+5,Content / Journalism ,5.27,Trainee
+5,Content / Journalism ,5.28,Fresher
+,,,
+7,CorporatePlanning / Consulting,7.01,Outside Consultant
+7,CorporatePlanning / Consulting,7.02,Sr Outside Consultant
+7,CorporatePlanning / Consulting,7.03,Corporate Planning/Strategy Mgr
+7,CorporatePlanning / Consulting,7.04,Research Associate
+7,CorporatePlanning / Consulting,7.05,Business Analyst
+7,CorporatePlanning / Consulting,7.06,EA to Chairman/President/VP
+7,CorporatePlanning / Consulting,7.07,Head/VP/GM-CorporatePlanning/Strategy
+7,CorporatePlanning / Consulting,7.08,VP/President/Partner
+7,CorporatePlanning / Consulting,7.09,CEO/MD/Director
+7,CorporatePlanning / Consulting,7.11,Trainees
+7,CorporatePlanning / Consulting,7.12,Freshers
+,,,
+10,"Export / Import /
+Merchandising",10.01,Documentation/Shipping Exec./Mgr
+10,"Export / Import /
+Merchandising",10.02,Production Exec.
+10,"Export / Import /
+Merchandising",10.03,Purchase Officer
+10,"Export / Import /
+Merchandising",10.04,Floor Mgr
+10,"Export / Import /
+Merchandising",10.05,Production Mgr
+10,"Export / Import /
+Merchandising",10.06,Merchandiser
+10,"Export / Import /
+Merchandising",10.07,QA/QC Exec.
+10,"Export / Import /
+Merchandising",10.08,QA/QC Mgr
+10,"Export / Import /
+Merchandising",10.09,BD Mgr
+10,"Export / Import /
+Merchandising",10.1,Head/VP/GM-Documentation/Shipping
+10,"Export / Import /
+Merchandising",10.11,Head/VP/GM-Production
+10,"Export / Import /
+Merchandising",10.12,Head/VP/GM-Purchase
+10,"Export / Import /
+Merchandising",10.13,VP/GM-Quality
+10,"Export / Import /
+Merchandising",10.14,CEO/MD/Director
+10,"Export / Import /
+Merchandising",10.15,Liason Officer/Mgr
+10,"Export / Import /
+Merchandising",10.16,Trader
+10,"Export / Import /
+Merchandising",10.17,Agent
+10,"Export / Import /
+Merchandising",10.19,Fresher
+10,"Export / Import /
+Merchandising",10.2,Trainee
+,,,
+42,Fashion / Garments / Merchandising,42.01,Accessory Designer
+42,Fashion / Garments / Merchandising,42.02,Apparel/Garment Designer
+42,Fashion / Garments / Merchandising,42.03,Footwear Designer
+42,Fashion / Garments / Merchandising,42.04,Merchandiser
+42,Fashion / Garments / Merchandising,42.05,Textile Designer
+42,Fashion / Garments / Merchandising,42.06,Jewellery Designer
+42,Fashion / Garments / Merchandising,42.07,Freelancer
+42,Fashion / Garments / Merchandising,42.09,Fresher
+42,Fashion / Garments / Merchandising,42.1,Trainee
+,,,
+45,Guards / Security Services,45.01,Security Guard
+45,Guards / Security Services,45.02,Security Supervisor
+45,Guards / Security Services,45.03,Security Mgr
+45,Guards / Security Services,45.04,Policeman
+45,Guards / Security Services,45.05,Army/Navy/Airforce Personnel
+45,Guards / Security Services,45.06,Chief Security Officer
+45,Guards / Security Services,45.08,Trainee
+45,Guards / Security Services,45.09,Fresher
+,,,
+4,Hotels / Restaurants,4.01,Bartender
+4,Hotels / Restaurants,4.02,Commis
+4,Hotels / Restaurants,4.03,Steward
+4,Hotels / Restaurants,4.04,Captain
+4,Hotels / Restaurants,4.05,Host/Hostess
+4,Hotels / Restaurants,4.06,Butler
+4,Hotels / Restaurants,4.07,Chef De Partis
+4,Hotels / Restaurants,4.08,Executive Sous Chef/Chef De Cuisine
+4,Hotels / Restaurants,4.09,Sous Chef
+4,Hotels / Restaurants,4.1,Banquet Sales Exec./ Mgr
+4,Hotels / Restaurants,4.11,Restaurant Mgr
+4,Hotels / Restaurants,4.12,F&B Mgr
+4,Hotels / Restaurants,4.13,General Manager
+4,Hotels / Restaurants,4.14,Housekeeping Exec./Asst.
+4,Hotels / Restaurants,4.15,Housekeeping Mgr
+4,Hotels / Restaurants,4.16,Cashier
+4,Hotels / Restaurants,4.17,Front Office/Guest Relations Exec./Mgr
+4,Hotels / Restaurants,4.18,Travel Desk Mgr
+4,Hotels / Restaurants,4.19,Lobby/Duty Mgr
+4,Hotels / Restaurants,4.21,Executive/Master Chef
+4,Hotels / Restaurants,4.22,Head/VP/GM-F&B
+4,Hotels / Restaurants,4.23,Head/VP/GM/National Manager-Sales
+4,Hotels / Restaurants,4.24,Head/VP/-PR/Corp. Communication
+4,Hotels / Restaurants,4.25,Head/VP/GM-Accounts
+4,Hotels / Restaurants,4.26,CEO/MD/Director
+4,Hotels / Restaurants,4.27,Health Club Asst./Mgr
+4,Hotels / Restaurants,4.28,Masseur
+4,Hotels / Restaurants,4.31,Fresher
+4,Hotels / Restaurants,4.32,Trainee
+,,,
+24.01,IT Software - Application Programming / Maintenance,24.01,Software Developer
+24.01,IT Software - Application Programming / Maintenance,24.02,Team Lead/Tech Lead
+24.01,IT Software - Application Programming / Maintenance,24.03,System Analyst
+24.01,IT Software - Application Programming / Maintenance,24.04,Tech Architect
+24.01,IT Software - Application Programming / Maintenance,24.05,Database Architect/Designer
+24.01,IT Software - Application Programming / Maintenance,24.06,Project Lead
+24.01,IT Software - Application Programming / Maintenance,24.07,Testing Engnr
+24.01,IT Software - Application Programming / Maintenance,24.08,Product Mgr
+24.01,IT Software - Application Programming / Maintenance,24.09,Graphic/Web Designer
+24.01,IT Software - Application Programming / Maintenance,24.1,Release Mgr
+24.01,IT Software - Application Programming / Maintenance,24.11,DBA
+24.01,IT Software - Application Programming / Maintenance,24.12,Network Admin
+24.01,IT Software - Application Programming / Maintenance,24.13,System Admin
+24.01,IT Software - Application Programming / Maintenance,24.14,System Security
+24.01,IT Software - Application Programming / Maintenance,24.15,Tech Support Engnr
+24.01,IT Software - Application Programming / Maintenance,24.16,Maintenance Engnr
+24.01,IT Software - Application Programming / Maintenance,24.17,Webmaster
+24.01,IT Software - Application Programming / Maintenance,24.18,IT/Networking-Mgr
+24.01,IT Software - Application Programming / Maintenance,24.19,Information Systems(MIS)-Mgr
+24.01,IT Software - Application Programming / Maintenance,24.2,System Integration Techician
+24.01,IT Software - Application Programming / Maintenance,24.21,Business Analyst
+24.01,IT Software - Application Programming / Maintenance,24.22,Datawarehousing Technician
+24.01,IT Software - Application Programming / Maintenance,24.23,Outside Technical Consultant
+24.01,IT Software - Application Programming / Maintenance,24.24,Functional Outside Consultant
+24.01,IT Software - Application Programming / Maintenance,24.25,EDP Analyst
+24.01,IT Software - Application Programming / Maintenance,24.26,Technical Writer
+24.01,IT Software - Application Programming / Maintenance,24.27,Instructional Designer
+24.01,IT Software - Application Programming / Maintenance,24.28,Technical Documentor
+24.01,IT Software - Application Programming / Maintenance,24.29,QA/QC Exec.
+24.01,IT Software - Application Programming / Maintenance,24.3,QA/QC Mgr
+24.01,IT Software - Application Programming / Maintenance,24.31,Project Mgr-IT/Software
+24.01,IT Software - Application Programming / Maintenance,24.32,Program Mgr
+24.01,IT Software - Application Programming / Maintenance,24.33,Head/VP/GM-Quality
+24.01,IT Software - Application Programming / Maintenance,24.34,Head/VP/GM-Technology(IT)/CTO
+24.01,IT Software - Application Programming / Maintenance,24.35,CIO
+24.01,IT Software - Application Programming / Maintenance,24.36,Trainer/Faculty
+24.01,IT Software - Application Programming / Maintenance,24.37,Trainee
+24.01,IT Software - Application Programming / Maintenance,24.38,Fresher
+24.01,IT Software - Application Programming / Maintenance,24.39,Outside Consultant
+24.01,IT Software - Application Programming / Maintenance,24.4,IT/Technical Content Developer
+,,,
+24.02,IT Software - Client Server,24.01,Software Developer
+24.02,IT Software - Client Server,24.02,Team Lead/Tech Lead
+24.02,IT Software - Client Server,24.03,System Analyst
+24.02,IT Software - Client Server,24.04,Tech Architect
+24.02,IT Software - Client Server,24.05,Database Architect/Designer
+24.02,IT Software - Client Server,24.06,Project Lead
+24.02,IT Software - Client Server,24.07,Testing Engnr
+24.02,IT Software - Client Server,24.08,Product Mgr
+24.02,IT Software - Client Server,24.09,Graphic/Web Designer
+24.02,IT Software - Client Server,24.1,Release Mgr
+24.02,IT Software - Client Server,24.11,DBA
+24.02,IT Software - Client Server,24.12,Network Admin
+24.02,IT Software - Client Server,24.13,System Admin
+24.02,IT Software - Client Server,24.14,System Security
+24.02,IT Software - Client Server,24.15,Tech Support Engnr
+24.02,IT Software - Client Server,24.16,Maintenance Engnr
+24.02,IT Software - Client Server,24.17,Webmaster
+24.02,IT Software - Client Server,24.18,IT/Networking-Mgr
+24.02,IT Software - Client Server,24.19,Information Systems(MIS)-Mgr
+24.02,IT Software - Client Server,24.2,System Integration Techician
+24.02,IT Software - Client Server,24.21,Business Analyst
+24.02,IT Software - Client Server,24.22,Datawarehousing Technician
+24.02,IT Software - Client Server,24.23,Outside Technical Consultant
+24.02,IT Software - Client Server,24.24,Functional Outside Consultant
+24.02,IT Software - Client Server,24.25,EDP Analyst
+24.02,IT Software - Client Server,24.26,Technical Writer
+24.02,IT Software - Client Server,24.27,Instructional Designer
+24.02,IT Software - Client Server,24.28,Technical Documentor
+24.02,IT Software - Client Server,24.29,QA/QC Exec.
+24.02,IT Software - Client Server,24.3,QA/QC Mgr
+24.02,IT Software - Client Server,24.31,Project Mgr-IT/Software
+24.02,IT Software - Client Server,24.32,Program Mgr
+24.02,IT Software - Client Server,24.33,Head/VP/GM-Quality
+24.02,IT Software - Client Server,24.34,Head/VP/GM-Technology(IT)/CTO
+24.02,IT Software - Client Server,24.35,CIO
+24.02,IT Software - Client Server,24.36,Trainer/Faculty
+24.02,IT Software - Client Server,24.37,Trainee
+24.02,IT Software - Client Server,24.38,Fresher
+24.02,IT Software - Client Server,24.39,Outside Consultant
+24.02,IT Software - Client Server,24.4,IT/Technical Content Developer
+,,,
+24.03,IT Software - DBA / Datawarehousing,24.01,Software Developer
+24.03,IT Software - DBA / Datawarehousing,24.02,Team Lead/Tech Lead
+24.03,IT Software - DBA / Datawarehousing,24.03,System Analyst
+24.03,IT Software - DBA / Datawarehousing,24.04,Tech Architect
+24.03,IT Software - DBA / Datawarehousing,24.05,Database Architect/Designer
+24.03,IT Software - DBA / Datawarehousing,24.06,Project Lead
+24.03,IT Software - DBA / Datawarehousing,24.07,Testing Engnr
+24.03,IT Software - DBA / Datawarehousing,24.08,Product Mgr
+24.03,IT Software - DBA / Datawarehousing,24.09,Graphic/Web Designer
+24.03,IT Software - DBA / Datawarehousing,24.1,Release Mgr
+24.03,IT Software - DBA / Datawarehousing,24.11,DBA
+24.03,IT Software - DBA / Datawarehousing,24.12,Network Admin
+24.03,IT Software - DBA / Datawarehousing,24.13,System Admin
+24.03,IT Software - DBA / Datawarehousing,24.14,System Security
+24.03,IT Software - DBA / Datawarehousing,24.15,Tech Support Engnr
+24.03,IT Software - DBA / Datawarehousing,24.16,Maintenance Engnr
+24.03,IT Software - DBA / Datawarehousing,24.17,Webmaster
+24.03,IT Software - DBA / Datawarehousing,24.18,IT/Networking-Mgr
+24.03,IT Software - DBA / Datawarehousing,24.19,Information Systems(MIS)-Mgr
+24.03,IT Software - DBA / Datawarehousing,24.2,System Integration Techician
+24.03,IT Software - DBA / Datawarehousing,24.21,Business Analyst
+24.03,IT Software - DBA / Datawarehousing,24.22,Datawarehousing Technician
+24.03,IT Software - DBA / Datawarehousing,24.23,Outside Technical Consultant
+24.03,IT Software - DBA / Datawarehousing,24.24,Functional Outside Consultant
+24.03,IT Software - DBA / Datawarehousing,24.25,EDP Analyst
+24.03,IT Software - DBA / Datawarehousing,24.26,Technical Writer
+24.03,IT Software - DBA / Datawarehousing,24.27,Instructional Designer
+24.03,IT Software - DBA / Datawarehousing,24.28,Technical Documentor
+24.03,IT Software - DBA / Datawarehousing,24.29,QA/QC Exec.
+24.03,IT Software - DBA / Datawarehousing,24.3,QA/QC Mgr
+24.03,IT Software - DBA / Datawarehousing,24.31,Project Mgr-IT/Software
+24.03,IT Software - DBA / Datawarehousing,24.32,Program Mgr
+24.03,IT Software - DBA / Datawarehousing,24.33,Head/VP/GM-Quality
+24.03,IT Software - DBA / Datawarehousing,24.34,Head/VP/GM-Technology(IT)/CTO
+24.03,IT Software - DBA / Datawarehousing,24.35,CIO
+24.03,IT Software - DBA / Datawarehousing,24.36,Trainer/Faculty
+24.03,IT Software - DBA / Datawarehousing,24.37,Trainee
+24.03,IT Software - DBA / Datawarehousing,24.38,Fresher
+24.03,IT Software - DBA / Datawarehousing,24.39,Outside Consultant
+24.03,IT Software - DBA / Datawarehousing,24.4,IT/Technical Content Developer
+,,,
+24.04,IT Software - ERP / CRM,24.01,Software Developer
+24.04,IT Software - ERP / CRM,24.02,Team Lead/Tech Lead
+24.04,IT Software - ERP / CRM,24.03,System Analyst
+24.04,IT Software - ERP / CRM,24.04,Tech Architect
+24.04,IT Software - ERP / CRM,24.05,Database Architect/Designer
+24.04,IT Software - ERP / CRM,24.06,Project Lead
+24.04,IT Software - ERP / CRM,24.07,Testing Engnr
+24.04,IT Software - ERP / CRM,24.08,Product Mgr
+24.04,IT Software - ERP / CRM,24.09,Graphic/Web Designer
+24.04,IT Software - ERP / CRM,24.1,Release Mgr
+24.04,IT Software - ERP / CRM,24.11,DBA
+24.04,IT Software - ERP / CRM,24.12,Network Admin
+24.04,IT Software - ERP / CRM,24.13,System Admin
+24.04,IT Software - ERP / CRM,24.14,System Security
+24.04,IT Software - ERP / CRM,24.15,Tech Support Engnr
+24.04,IT Software - ERP / CRM,24.16,Maintenance Engnr
+24.04,IT Software - ERP / CRM,24.17,Webmaster
+24.04,IT Software - ERP / CRM,24.18,IT/Networking-Mgr
+24.04,IT Software - ERP / CRM,24.19,Information Systems(MIS)-Mgr
+24.04,IT Software - ERP / CRM,24.2,System Integration Techician
+24.04,IT Software - ERP / CRM,24.21,Business Analyst
+24.04,IT Software - ERP / CRM,24.22,Datawarehousing Technician
+24.04,IT Software - ERP / CRM,24.23,Outside Technical Consultant
+24.04,IT Software - ERP / CRM,24.24,Functional Outside Consultant
+24.04,IT Software - ERP / CRM,24.25,EDP Analyst
+24.04,IT Software - ERP / CRM,24.26,Technical Writer
+24.04,IT Software - ERP / CRM,24.27,Instructional Designer
+24.04,IT Software - ERP / CRM,24.28,Technical Documentor
+24.04,IT Software - ERP / CRM,24.29,QA/QC Exec.
+24.04,IT Software - ERP / CRM,24.3,QA/QC Mgr
+24.04,IT Software - ERP / CRM,24.31,Project Mgr-IT/Software
+24.04,IT Software - ERP / CRM,24.32,Program Mgr
+24.04,IT Software - ERP / CRM,24.33,Head/VP/GM-Quality
+24.04,IT Software - ERP / CRM,24.34,Head/VP/GM-Technology(IT)/CTO
+24.04,IT Software - ERP / CRM,24.35,CIO
+24.04,IT Software - ERP / CRM,24.36,Trainer/Faculty
+24.04,IT Software - ERP / CRM,24.37,Trainee
+24.04,IT Software - ERP / CRM,24.38,Fresher
+24.04,IT Software - ERP / CRM,24.39,Outside Consultant
+24.04,IT Software - ERP / CRM,24.4,IT/Technical Content Developer
+,,,
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.01,Software Developer
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.02,Team Lead/Tech Lead
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.03,System Analyst
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.04,Tech Architect
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.05,Database Architect/Designer
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.06,Project Lead
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.07,Testing Engnr
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.08,Product Mgr
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.09,Graphic/Web Designer
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.1,Release Mgr
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.11,DBA
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.12,Network Admin
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.13,System Admin
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.14,System Security
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.15,Tech Support Engnr
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.16,Maintenance Engnr
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.17,Webmaster
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.18,IT/Networking-Mgr
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.19,Information Systems(MIS)-Mgr
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.2,System Integration Techician
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.21,Business Analyst
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.22,Datawarehousing Technician
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.23,Outside Technical Consultant
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.24,Functional Outside Consultant
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.25,EDP Analyst
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.26,Technical Writer
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.27,Instructional Designer
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.28,Technical Documentor
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.29,QA/QC Exec.
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.3,QA/QC Mgr
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.31,Project Mgr-IT/Software
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.32,Program Mgr
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.33,Head/VP/GM-Quality
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.34,Head/VP/GM-Technology(IT)/CTO
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.35,CIO
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.36,Trainer/Faculty
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.37,Trainee
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.38,Fresher
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.39,Outside Consultant
+24.05,IT Software - Embedded / EDA / VLSI / ASIC / Chip Design,24.4,IT/Technical Content Developer
+,,,
+24.06,IT Software - Network Administration / Security,24.01,Software Developer
+24.06,IT Software - Network Administration / Security,24.02,Team Lead/Tech Lead
+24.06,IT Software - Network Administration / Security,24.03,System Analyst
+24.06,IT Software - Network Administration / Security,24.04,Tech Architect
+24.06,IT Software - Network Administration / Security,24.05,Database Architect/Designer
+24.06,IT Software - Network Administration / Security,24.06,Project Lead
+24.06,IT Software - Network Administration / Security,24.07,Testing Engnr
+24.06,IT Software - Network Administration / Security,24.08,Product Mgr
+24.06,IT Software - Network Administration / Security,24.09,Graphic/Web Designer
+24.06,IT Software - Network Administration / Security,24.1,Release Mgr
+24.06,IT Software - Network Administration / Security,24.11,DBA
+24.06,IT Software - Network Administration / Security,24.12,Network Admin
+24.06,IT Software - Network Administration / Security,24.13,System Admin
+24.06,IT Software - Network Administration / Security,24.14,System Security
+24.06,IT Software - Network Administration / Security,24.15,Tech Support Engnr
+24.06,IT Software - Network Administration / Security,24.16,Maintenance Engnr
+24.06,IT Software - Network Administration / Security,24.17,Webmaster
+24.06,IT Software - Network Administration / Security,24.18,IT/Networking-Mgr
+24.06,IT Software - Network Administration / Security,24.19,Information Systems(MIS)-Mgr
+24.06,IT Software - Network Administration / Security,24.2,System Integration Techician
+24.06,IT Software - Network Administration / Security,24.21,Business Analyst
+24.06,IT Software - Network Administration / Security,24.22,Datawarehousing Technician
+24.06,IT Software - Network Administration / Security,24.23,Outside Technical Consultant
+24.06,IT Software - Network Administration / Security,24.24,Functional Outside Consultant
+24.06,IT Software - Network Administration / Security,24.25,EDP Analyst
+24.06,IT Software - Network Administration / Security,24.26,Technical Writer
+24.06,IT Software - Network Administration / Security,24.27,Instructional Designer
+24.06,IT Software - Network Administration / Security,24.28,Technical Documentor
+24.06,IT Software - Network Administration / Security,24.29,QA/QC Exec.
+24.06,IT Software - Network Administration / Security,24.3,QA/QC Mgr
+24.06,IT Software - Network Administration / Security,24.31,Project Mgr-IT/Software
+24.06,IT Software - Network Administration / Security,24.32,Program Mgr
+24.06,IT Software - Network Administration / Security,24.33,Head/VP/GM-Quality
+24.06,IT Software - Network Administration / Security,24.34,Head/VP/GM-Technology(IT)/CTO
+24.06,IT Software - Network Administration / Security,24.35,CIO
+24.06,IT Software - Network Administration / Security,24.36,Trainer/Faculty
+24.06,IT Software - Network Administration / Security,24.37,Trainee
+24.06,IT Software - Network Administration / Security,24.38,Fresher
+24.06,IT Software - Network Administration / Security,24.39,Outside Consultant
+24.06,IT Software - Network Administration / Security,24.4,IT/Technical Content Developer
+,,,
+24.07,IT Software - Other,24.01,Software Developer
+24.07,IT Software - Other,24.02,Team Lead/Tech Lead
+24.07,IT Software - Other,24.03,System Analyst
+24.07,IT Software - Other,24.04,Tech Architect
+24.07,IT Software - Other,24.05,Database Architect/Designer
+24.07,IT Software - Other,24.06,Project Lead
+24.07,IT Software - Other,24.07,Testing Engnr
+24.07,IT Software - Other,24.08,Product Mgr
+24.07,IT Software - Other,24.09,Graphic/Web Designer
+24.07,IT Software - Other,24.1,Release Mgr
+24.07,IT Software - Other,24.11,DBA
+24.07,IT Software - Other,24.12,Network Admin
+24.07,IT Software - Other,24.13,System Admin
+24.07,IT Software - Other,24.14,System Security
+24.07,IT Software - Other,24.15,Tech Support Engnr
+24.07,IT Software - Other,24.16,Maintenance Engnr
+24.07,IT Software - Other,24.17,Webmaster
+24.07,IT Software - Other,24.18,IT/Networking-Mgr
+24.07,IT Software - Other,24.19,Information Systems(MIS)-Mgr
+24.07,IT Software - Other,24.2,System Integration Techician
+24.07,IT Software - Other,24.21,Business Analyst
+24.07,IT Software - Other,24.22,Datawarehousing Technician
+24.07,IT Software - Other,24.23,Outside Technical Consultant
+24.07,IT Software - Other,24.24,Functional Outside Consultant
+24.07,IT Software - Other,24.25,EDP Analyst
+24.07,IT Software - Other,24.26,Technical Writer
+24.07,IT Software - Other,24.27,Instructional Designer
+24.07,IT Software - Other,24.28,Technical Documentor
+24.07,IT Software - Other,24.29,QA/QC Exec.
+24.07,IT Software - Other,24.3,QA/QC Mgr
+24.07,IT Software - Other,24.31,Project Mgr-IT/Software
+24.07,IT Software - Other,24.32,Program Mgr
+24.07,IT Software - Other,24.33,Head/VP/GM-Quality
+24.07,IT Software - Other,24.34,Head/VP/GM-Technology(IT)/CTO
+24.07,IT Software - Other,24.35,CIO
+24.07,IT Software - Other,24.36,Trainer/Faculty
+24.07,IT Software - Other,24.37,Trainee
+24.07,IT Software - Other,24.38,Fresher
+24.07,IT Software - Other,24.39,Outside Consultant
+24.07,IT Software - Other,24.4,IT/Technical Content Developer
+,,,
+24.08,IT Software – QA & Testing,24.01,Software Developer
+24.08,IT Software – QA & Testing,24.02,Team Lead/Tech Lead
+24.08,IT Software – QA & Testing,24.03,System Analyst
+24.08,IT Software – QA & Testing,24.04,Tech Architect
+24.08,IT Software – QA & Testing,24.05,Database Architect/Designer
+24.08,IT Software – QA & Testing,24.06,Project Lead
+24.08,IT Software – QA & Testing,24.07,Testing Engnr
+24.08,IT Software – QA & Testing,24.08,Product Mgr
+24.08,IT Software – QA & Testing,24.09,Graphic/Web Designer
+24.08,IT Software – QA & Testing,24.1,Release Mgr
+24.08,IT Software – QA & Testing,24.11,DBA
+24.08,IT Software – QA & Testing,24.12,Network Admin
+24.08,IT Software – QA & Testing,24.13,System Admin
+24.08,IT Software – QA & Testing,24.14,System Security
+24.08,IT Software – QA & Testing,24.15,Tech Support Engnr
+24.08,IT Software – QA & Testing,24.16,Maintenance Engnr
+24.08,IT Software – QA & Testing,24.17,Webmaster
+24.08,IT Software – QA & Testing,24.18,IT/Networking-Mgr
+24.08,IT Software – QA & Testing,24.19,Information Systems(MIS)-Mgr
+24.08,IT Software – QA & Testing,24.2,System Integration Techician
+24.08,IT Software – QA & Testing,24.21,Business Analyst
+24.08,IT Software – QA & Testing,24.22,Datawarehousing Technician
+24.08,IT Software – QA & Testing,24.23,Outside Technical Consultant
+24.08,IT Software – QA & Testing,24.24,Functional Outside Consultant
+24.08,IT Software – QA & Testing,24.25,EDP Analyst
+24.08,IT Software – QA & Testing,24.26,Technical Writer
+24.08,IT Software – QA & Testing,24.27,Instructional Designer
+24.08,IT Software – QA & Testing,24.28,Technical Documentor
+24.08,IT Software – QA & Testing,24.29,QA/QC Exec.
+24.08,IT Software – QA & Testing,24.3,QA/QC Mgr
+24.08,IT Software – QA & Testing,24.31,Project Mgr-IT/Software
+24.08,IT Software – QA & Testing,24.32,Program Mgr
+24.08,IT Software – QA & Testing,24.33,Head/VP/GM-Quality
+24.08,IT Software – QA & Testing,24.34,Head/VP/GM-Technology(IT)/CTO
+24.08,IT Software – QA & Testing,24.35,CIO
+24.08,IT Software – QA & Testing,24.36,Trainer/Faculty
+24.08,IT Software – QA & Testing,24.37,Trainee
+24.08,IT Software – QA & Testing,24.38,Fresher
+24.08,IT Software – QA & Testing,24.39,Outside Consultant
+24.08,IT Software – QA & Testing,24.4,IT/Technical Content Developer
+,,,
+24.09,IT Software - System Programming ,24.01,Software Developer
+24.09,IT Software - System Programming ,24.02,Team Lead/Tech Lead
+24.09,IT Software - System Programming ,24.03,System Analyst
+24.09,IT Software - System Programming ,24.04,Tech Architect
+24.09,IT Software - System Programming ,24.05,Database Architect/Designer
+24.09,IT Software - System Programming ,24.06,Project Lead
+24.09,IT Software - System Programming ,24.07,Testing Engnr
+24.09,IT Software - System Programming ,24.08,Product Mgr
+24.09,IT Software - System Programming ,24.09,Graphic/Web Designer
+24.09,IT Software - System Programming ,24.1,Release Mgr
+24.09,IT Software - System Programming ,24.11,DBA
+24.09,IT Software - System Programming ,24.12,Network Admin
+24.09,IT Software - System Programming ,24.13,System Admin
+24.09,IT Software - System Programming ,24.14,System Security
+24.09,IT Software - System Programming ,24.15,Tech Support Engnr
+24.09,IT Software - System Programming ,24.16,Maintenance Engnr
+24.09,IT Software - System Programming ,24.17,Webmaster
+24.09,IT Software - System Programming ,24.18,IT/Networking-Mgr
+24.09,IT Software - System Programming ,24.19,Information Systems(MIS)-Mgr
+24.09,IT Software - System Programming ,24.2,System Integration Techician
+24.09,IT Software - System Programming ,24.21,Business Analyst
+24.09,IT Software - System Programming ,24.22,Datawarehousing Technician
+24.09,IT Software - System Programming ,24.23,Outside Technical Consultant
+24.09,IT Software - System Programming ,24.24,Functional Outside Consultant
+24.09,IT Software - System Programming ,24.25,EDP Analyst
+24.09,IT Software - System Programming ,24.26,Technical Writer
+24.09,IT Software - System Programming ,24.27,Instructional Designer
+24.09,IT Software - System Programming ,24.28,Technical Documentor
+24.09,IT Software - System Programming ,24.29,QA/QC Exec.
+24.09,IT Software - System Programming ,24.3,QA/QC Mgr
+24.09,IT Software - System Programming ,24.31,Project Mgr-IT/Software
+24.09,IT Software - System Programming ,24.32,Program Mgr
+24.09,IT Software - System Programming ,24.33,Head/VP/GM-Quality
+24.09,IT Software - System Programming ,24.34,Head/VP/GM-Technology(IT)/CTO
+24.09,IT Software - System Programming ,24.35,CIO
+24.09,IT Software - System Programming ,24.36,Trainer/Faculty
+24.09,IT Software - System Programming ,24.37,Trainee
+24.09,IT Software - System Programming ,24.38,Fresher
+24.09,IT Software - System Programming ,24.39,Outside Consultant
+24.09,IT Software - System Programming ,24.4,IT/Technical Content Developer
+,,,
+24.1,IT Software - Telecom,24.01,Software Developer
+24.1,IT Software - Telecom,24.02,Team Lead/Tech Lead
+24.1,IT Software - Telecom,24.03,System Analyst
+24.1,IT Software - Telecom,24.04,Tech Architect
+24.1,IT Software - Telecom,24.05,Database Architect/Designer
+24.1,IT Software - Telecom,24.06,Project Lead
+24.1,IT Software - Telecom,24.07,Testing Engnr
+24.1,IT Software - Telecom,24.08,Product Mgr
+24.1,IT Software - Telecom,24.09,Graphic/Web Designer
+24.1,IT Software - Telecom,24.1,Release Mgr
+24.1,IT Software - Telecom,24.11,DBA
+24.1,IT Software - Telecom,24.12,Network Admin
+24.1,IT Software - Telecom,24.13,System Admin
+24.1,IT Software - Telecom,24.14,System Security
+24.1,IT Software - Telecom,24.15,Tech Support Engnr
+24.1,IT Software - Telecom,24.16,Maintenance Engnr
+24.1,IT Software - Telecom,24.17,Webmaster
+24.1,IT Software - Telecom,24.18,IT/Networking-Mgr
+24.1,IT Software - Telecom,24.19,Information Systems(MIS)-Mgr
+24.1,IT Software - Telecom,24.2,System Integration Techician
+24.1,IT Software - Telecom,24.21,Business Analyst
+24.1,IT Software - Telecom,24.22,Datawarehousing Technician
+24.1,IT Software - Telecom,24.23,Outside Technical Consultant
+24.1,IT Software - Telecom,24.24,Functional Outside Consultant
+24.1,IT Software - Telecom,24.25,EDP Analyst
+24.1,IT Software - Telecom,24.26,Technical Writer
+24.1,IT Software - Telecom,24.27,Instructional Designer
+24.1,IT Software - Telecom,24.28,Technical Documentor
+24.1,IT Software - Telecom,24.29,QA/QC Exec.
+24.1,IT Software - Telecom,24.3,QA/QC Mgr
+24.1,IT Software - Telecom,24.31,Project Mgr-IT/Software
+24.1,IT Software - Telecom,24.32,Program Mgr
+24.1,IT Software - Telecom,24.33,Head/VP/GM-Quality
+24.1,IT Software - Telecom,24.34,Head/VP/GM-Technology(IT)/CTO
+24.1,IT Software - Telecom,24.35,CIO
+24.1,IT Software - Telecom,24.36,Trainer/Faculty
+24.1,IT Software - Telecom,24.37,Trainee
+24.1,IT Software - Telecom,24.38,Fresher
+24.1,IT Software - Telecom,24.39,Outside Consultant
+24.1,IT Software - Telecom,24.4,IT/Technical Content Developer
+,,,
+24.11,IT Software - Systems / EDP / MIS ,24.01,Software Developer
+24.11,IT Software - Systems / EDP / MIS ,24.02,Team Lead/Tech Lead
+24.11,IT Software - Systems / EDP / MIS ,24.03,System Analyst
+24.11,IT Software - Systems / EDP / MIS ,24.04,Tech Architect
+24.11,IT Software - Systems / EDP / MIS ,24.05,Database Architect/Designer
+24.11,IT Software - Systems / EDP / MIS ,24.06,Project Lead
+24.11,IT Software - Systems / EDP / MIS ,24.07,Testing Engnr
+24.11,IT Software - Systems / EDP / MIS ,24.08,Product Mgr
+24.11,IT Software - Systems / EDP / MIS ,24.09,Graphic/Web Designer
+24.11,IT Software - Systems / EDP / MIS ,24.1,Release Mgr
+24.11,IT Software - Systems / EDP / MIS ,24.11,DBA
+24.11,IT Software - Systems / EDP / MIS ,24.12,Network Admin
+24.11,IT Software - Systems / EDP / MIS ,24.13,System Admin
+24.11,IT Software - Systems / EDP / MIS ,24.14,System Security
+24.11,IT Software - Systems / EDP / MIS ,24.15,Tech Support Engnr
+24.11,IT Software - Systems / EDP / MIS ,24.16,Maintenance Engnr
+24.11,IT Software - Systems / EDP / MIS ,24.17,Webmaster
+24.11,IT Software - Systems / EDP / MIS ,24.18,IT/Networking-Mgr
+24.11,IT Software - Systems / EDP / MIS ,24.19,Information Systems(MIS)-Mgr
+24.11,IT Software - Systems / EDP / MIS ,24.2,System Integration Techician
+24.11,IT Software - Systems / EDP / MIS ,24.21,Business Analyst
+24.11,IT Software - Systems / EDP / MIS ,24.22,Datawarehousing Technician
+24.11,IT Software - Systems / EDP / MIS ,24.23,Outside Technical Consultant
+24.11,IT Software - Systems / EDP / MIS ,24.24,Functional Outside Consultant
+24.11,IT Software - Systems / EDP / MIS ,24.25,EDP Analyst
+24.11,IT Software - Systems / EDP / MIS ,24.26,Technical Writer
+24.11,IT Software - Systems / EDP / MIS ,24.27,Instructional Designer
+24.11,IT Software - Systems / EDP / MIS ,24.28,Technical Documentor
+24.11,IT Software - Systems / EDP / MIS ,24.29,QA/QC Exec.
+24.11,IT Software - Systems / EDP / MIS ,24.3,QA/QC Mgr
+24.11,IT Software - Systems / EDP / MIS ,24.31,Project Mgr-IT/Software
+24.11,IT Software - Systems / EDP / MIS ,24.32,Program Mgr
+24.11,IT Software - Systems / EDP / MIS ,24.33,Head/VP/GM-Quality
+24.11,IT Software - Systems / EDP / MIS ,24.34,Head/VP/GM-Technology(IT)/CTO
+24.11,IT Software - Systems / EDP / MIS ,24.35,CIO
+24.11,IT Software - Systems / EDP / MIS ,24.36,Trainer/Faculty
+24.11,IT Software - Systems / EDP / MIS ,24.37,Trainee
+24.11,IT Software - Systems / EDP / MIS ,24.38,Fresher
+24.11,IT Software - Systems / EDP / MIS ,24.39,Outside Consultant
+24.11,IT Software - Systems / EDP / MIS ,24.4,IT/Technical Content Developer
+,,,
+24.12,IT Software - E- Commerce /  Internet Technologies,24.01,Software Developer
+24.12,IT Software - E- Commerce /  Internet Technologies,24.02,Team Lead/Tech Lead
+24.12,IT Software - E- Commerce /  Internet Technologies,24.03,System Analyst
+24.12,IT Software - E- Commerce /  Internet Technologies,24.04,Tech Architect
+24.12,IT Software - E- Commerce /  Internet Technologies,24.05,Database Architect/Designer
+24.12,IT Software - E- Commerce /  Internet Technologies,24.06,Project Lead
+24.12,IT Software - E- Commerce /  Internet Technologies,24.07,Testing Engnr
+24.12,IT Software - E- Commerce /  Internet Technologies,24.08,Product Mgr
+24.12,IT Software - E- Commerce /  Internet Technologies,24.09,Graphic/Web Designer
+24.12,IT Software - E- Commerce /  Internet Technologies,24.1,Release Mgr
+24.12,IT Software - E- Commerce /  Internet Technologies,24.11,DBA
+24.12,IT Software - E- Commerce /  Internet Technologies,24.12,Network Admin
+24.12,IT Software - E- Commerce /  Internet Technologies,24.13,System Admin
+24.12,IT Software - E- Commerce /  Internet Technologies,24.14,System Security
+24.12,IT Software - E- Commerce /  Internet Technologies,24.15,Tech Support Engnr
+24.12,IT Software - E- Commerce /  Internet Technologies,24.16,Maintenance Engnr
+24.12,IT Software - E- Commerce /  Internet Technologies,24.17,Webmaster
+24.12,IT Software - E- Commerce /  Internet Technologies,24.18,IT/Networking-Mgr
+24.12,IT Software - E- Commerce /  Internet Technologies,24.19,Information Systems(MIS)-Mgr
+24.12,IT Software - E- Commerce /  Internet Technologies,24.2,System Integration Techician
+24.12,IT Software - E- Commerce /  Internet Technologies,24.21,Business Analyst
+24.12,IT Software - E- Commerce /  Internet Technologies,24.22,Datawarehousing Technician
+24.12,IT Software - E- Commerce /  Internet Technologies,24.23,Outside Technical Consultant
+24.12,IT Software - E- Commerce /  Internet Technologies,24.24,Functional Outside Consultant
+24.12,IT Software - E- Commerce /  Internet Technologies,24.25,EDP Analyst
+24.12,IT Software - E- Commerce /  Internet Technologies,24.26,Technical Writer
+24.12,IT Software - E- Commerce /  Internet Technologies,24.27,Instructional Designer
+24.12,IT Software - E- Commerce /  Internet Technologies,24.28,Technical Documentor
+24.12,IT Software - E- Commerce /  Internet Technologies,24.29,QA/QC Exec.
+24.12,IT Software - E- Commerce /  Internet Technologies,24.3,QA/QC Mgr
+24.12,IT Software - E- Commerce /  Internet Technologies,24.31,Project Mgr-IT/Software
+24.12,IT Software - E- Commerce /  Internet Technologies,24.32,Program Mgr
+24.12,IT Software - E- Commerce /  Internet Technologies,24.33,Head/VP/GM-Quality
+24.12,IT Software - E- Commerce /  Internet Technologies,24.34,Head/VP/GM-Technology(IT)/CTO
+24.12,IT Software - E- Commerce /  Internet Technologies,24.35,CIO
+24.12,IT Software - E- Commerce /  Internet Technologies,24.36,Trainer/Faculty
+24.12,IT Software - E- Commerce /  Internet Technologies,24.37,Trainee
+24.12,IT Software - E- Commerce /  Internet Technologies,24.38,Fresher
+24.12,IT Software - E- Commerce /  Internet Technologies,24.39,Outside Consultant
+24.12,IT Software - E- Commerce /  Internet Technologies,24.4,IT/Technical Content Developer
+,,,
+24.13,IT Software -,24.01,Software Developer
+24.13,Mainframe,24.02,Team Lead/Tech Lead
+24.13,Mainframe,24.03,System Analyst
+24.13,Mainframe,24.04,Tech Architect
+24.13,Mainframe,24.05,Database Architect/Designer
+24.13,Mainframe,24.06,Project Lead
+24.13,Mainframe,24.07,Testing Engnr
+24.13,Mainframe,24.08,Product Mgr
+24.13,Mainframe,24.09,Graphic/Web Designer
+24.13,Mainframe,24.1,Release Mgr
+24.13,Mainframe,24.11,DBA
+24.13,Mainframe,24.12,Network Admin
+24.13,Mainframe,24.13,System Admin
+24.13,Mainframe,24.14,System Security
+24.13,Mainframe,24.15,Tech Support Engnr
+24.13,Mainframe,24.16,Maintenance Engnr
+24.13,Mainframe,24.17,Webmaster
+24.13,Mainframe,24.18,IT/Networking-Mgr
+24.13,Mainframe,24.19,Information Systems(MIS)-Mgr
+24.13,Mainframe,24.2,System Integration Techician
+24.13,Mainframe,24.21,Business Analyst
+24.13,Mainframe,24.22,Datawarehousing Technician
+24.13,Mainframe,24.23,Outside Technical Consultant
+24.13,Mainframe,24.24,Functional Outside Consultant
+24.13,Mainframe,24.25,EDP Analyst
+24.13,Mainframe,24.26,Technical Writer
+24.13,Mainframe,24.27,Instructional Designer
+24.13,Mainframe,24.28,Technical Documentor
+24.13,Mainframe,24.29,QA/QC Exec.
+24.13,Mainframe,24.3,QA/QC Mgr
+24.13,Mainframe,24.31,Project Mgr-IT/Software
+24.13,Mainframe,24.32,Program Mgr
+24.13,Mainframe,24.33,Head/VP/GM-Quality
+24.13,Mainframe,24.34,Head/VP/GM-Technology(IT)/CTO
+24.13,Mainframe,24.35,CIO
+24.13,Mainframe,24.36,Trainer/Faculty
+24.13,Mainframe,24.37,Trainee
+24.13,Mainframe,24.38,Fresher
+24.13,Mainframe,24.39,Outside Consultant
+24.13,Mainframe,24.4,IT/Technical Content Developer
+,,,
+24.14,IT Software - Mobile,24.01,Software Developer
+24.14,IT Software - Mobile,24.02,Team Lead/Tech Lead
+24.14,IT Software - Mobile,24.03,System Analyst
+24.14,IT Software - Mobile,24.04,Tech Architect
+24.14,IT Software - Mobile,24.05,Database Architect/Designer
+24.14,IT Software - Mobile,24.06,Project Lead
+24.14,IT Software - Mobile,24.07,Testing Engnr
+24.14,IT Software - Mobile,24.08,Product Mgr
+24.14,IT Software - Mobile,24.09,Graphic/Web Designer
+24.14,IT Software - Mobile,24.1,Release Mgr
+24.14,IT Software - Mobile,24.11,DBA
+24.14,IT Software - Mobile,24.12,Network Admin
+24.14,IT Software - Mobile,24.13,System Admin
+24.14,IT Software - Mobile,24.14,System Security
+24.14,IT Software - Mobile,24.15,Tech Support Engnr
+24.14,IT Software - Mobile,24.16,Maintenance Engnr
+24.14,IT Software - Mobile,24.17,Webmaster
+24.14,IT Software - Mobile,24.18,IT/Networking-Mgr
+24.14,IT Software - Mobile,24.19,Information Systems(MIS)-Mgr
+24.14,IT Software - Mobile,24.2,System Integration Techician
+24.14,IT Software - Mobile,24.21,Business Analyst
+24.14,IT Software - Mobile,24.22,Datawarehousing Technician
+24.14,IT Software - Mobile,24.23,Outside Technical Consultant
+24.14,IT Software - Mobile,24.24,Functional Outside Consultant
+24.14,IT Software - Mobile,24.25,EDP Analyst
+24.14,IT Software - Mobile,24.26,Technical Writer
+24.14,IT Software - Mobile,24.27,Instructional Designer
+24.14,IT Software - Mobile,24.28,Technical Documentor
+24.14,IT Software - Mobile,24.29,QA/QC Exec.
+24.14,IT Software - Mobile,24.3,QA/QC Mgr
+24.14,IT Software - Mobile,24.31,Project Mgr-IT/Software
+24.14,IT Software - Mobile,24.32,Program Mgr
+24.14,IT Software - Mobile,24.33,Head/VP/GM-Quality
+24.14,IT Software - Mobile,24.34,Head/VP/GM-Technology(IT)/CTO
+24.14,IT Software - Mobile,24.35,CIO
+24.14,IT Software - Mobile,24.36,Trainer/Faculty
+24.14,IT Software - Mobile,24.37,Trainee
+24.14,IT Software - Mobile,24.38,Fresher
+24.14,IT Software - Mobile,24.39,Outside Consultant
+24.14,IT Software - Mobile,24.4,IT/Technical Content Developer
+,,,
+24.15,IT Software - Middleware,24.01,Software Developer
+24.15,IT Software - Middleware,24.02,Team Lead/Tech Lead
+24.15,IT Software - Middleware,24.03,System Analyst
+24.15,IT Software - Middleware,24.04,Tech Architect
+24.15,IT Software - Middleware,24.05,Database Architect/Designer
+24.15,IT Software - Middleware,24.06,Project Lead
+24.15,IT Software - Middleware,24.07,Testing Engnr
+24.15,IT Software - Middleware,24.08,Product Mgr
+24.15,IT Software - Middleware,24.09,Graphic/Web Designer
+24.15,IT Software - Middleware,24.1,Release Mgr
+24.15,IT Software - Middleware,24.11,DBA
+24.15,IT Software - Middleware,24.12,Network Admin
+24.15,IT Software - Middleware,24.13,System Admin
+24.15,IT Software - Middleware,24.14,System Security
+24.15,IT Software - Middleware,24.15,Tech Support Engnr
+24.15,IT Software - Middleware,24.16,Maintenance Engnr
+24.15,IT Software - Middleware,24.17,Webmaster
+24.15,IT Software - Middleware,24.18,IT/Networking-Mgr
+24.15,IT Software - Middleware,24.19,Information Systems(MIS)-Mgr
+24.15,IT Software - Middleware,24.2,System Integration Techician
+24.15,IT Software - Middleware,24.21,Business Analyst
+24.15,IT Software - Middleware,24.22,Datawarehousing Technician
+24.15,IT Software - Middleware,24.23,Outside Technical Consultant
+24.15,IT Software - Middleware,24.24,Functional Outside Consultant
+24.15,IT Software - Middleware,24.25,EDP Analyst
+24.15,IT Software - Middleware,24.26,Technical Writer
+24.15,IT Software - Middleware,24.27,Instructional Designer
+24.15,IT Software - Middleware,24.28,Technical Documentor
+24.15,IT Software - Middleware,24.29,QA/QC Exec.
+24.15,IT Software - Middleware,24.3,QA/QC Mgr
+24.15,IT Software - Middleware,24.31,Project Mgr-IT/Software
+24.15,IT Software - Middleware,24.32,Program Mgr
+24.15,IT Software - Middleware,24.33,Head/VP/GM-Quality
+24.15,IT Software - Middleware,24.34,Head/VP/GM-Technology(IT)/CTO
+24.15,IT Software - Middleware,24.35,CIO
+24.15,IT Software - Middleware,24.36,Trainer/Faculty
+24.15,IT Software - Middleware,24.37,Trainee
+24.15,IT Software - Middleware,24.38,Fresher
+24.15,IT Software - Middleware,24.39,Outside Consultant
+24.15,IT Software - Middleware,24.4,IT/Technical Content Developer
+,,,
+37,IT- Hardware / Telecom / Technical Staff / Support,37.01,Customer Support Engnr/Technician
+37,IT- Hardware / Telecom / Technical Staff / Support,37.02,Technical Support Mgr
+37,IT- Hardware / Telecom / Technical Staff / Support,37.03,Head/VP/GM-Tech. Support
+37,IT- Hardware / Telecom / Technical Staff / Support,37.04,RF Engnr
+37,IT- Hardware / Telecom / Technical Staff / Support,37.05,RF Installation Engnr
+37,IT- Hardware / Telecom / Technical Staff / Support,37.06,RF System Designer
+37,IT- Hardware / Telecom / Technical Staff / Support,37.07,GPRS Engnr
+37,IT- Hardware / Telecom / Technical Staff / Support,37.08,GSM Engnr
+37,IT- Hardware / Telecom / Technical Staff / Support,37.09,Embedded Technologies Engnr
+37,IT- Hardware / Telecom / Technical Staff / Support,37.1,Switching/Router Engnr
+37,IT- Hardware / Telecom / Technical Staff / Support,37.11,Mech. Engnr -Telecom
+37,IT- Hardware / Telecom / Technical Staff / Support,37.12,Civil Engnr -Telecom
+37,IT- Hardware / Telecom / Technical Staff / Support,37.13,Electrical Engnr -Telecom
+37,IT- Hardware / Telecom / Technical Staff / Support,37.14,Network Planning Engnr
+37,IT- Hardware / Telecom / Technical Staff / Support,37.15,Network Planning Manager
+37,IT- Hardware / Telecom / Technical Staff / Support,37.16,Security Engnr
+37,IT- Hardware / Telecom / Technical Staff / Support,37.17,Maintenance Engnr
+37,IT- Hardware / Telecom / Technical Staff / Support,37.18,Hardware Design Engnr
+37,IT- Hardware / Telecom / Technical Staff / Support,37.19,Tech Lead -Hardware Design
+37,IT- Hardware / Telecom / Technical Staff / Support,37.2,Hardware Installation Technician
+37,IT- Hardware / Telecom / Technical Staff / Support,37.21,QA/QC Exec.
+37,IT- Hardware / Telecom / Technical Staff / Support,37.22,QA/QC Mgr
+37,IT- Hardware / Telecom / Technical Staff / Support,37.23,Network Admin
+37,IT- Hardware / Telecom / Technical Staff / Support,37.24,System Admin
+37,IT- Hardware / Telecom / Technical Staff / Support,37.25,Project Mgr-Telecom
+37,IT- Hardware / Telecom / Technical Staff / Support,37.27,Head/VP/GM-Operations
+37,IT- Hardware / Telecom / Technical Staff / Support,37.28,Head/VP/GM-Quality
+37,IT- Hardware / Telecom / Technical Staff / Support,37.29,CEO/MD/Director
+37,IT- Hardware / Telecom / Technical Staff / Support,37.3,SBU Head/Profit Centre Head
+37,IT- Hardware / Telecom / Technical Staff / Support,37.31,CTO/Head/VP-Technology (Telecom/ISP)
+37,IT- Hardware / Telecom / Technical Staff / Support,37.32,CIO
+37,IT- Hardware / Telecom / Technical Staff / Support,37.33,Outside Consultant
+37,IT- Hardware / Telecom / Technical Staff / Support,37.35,Trainee
+37,IT- Hardware / Telecom / Technical Staff / Support,37.36,Fresher
+,,,
+13,Legal,13.01,Apprentice/Intern
+13,Legal,13.02,Private Attorney/Lawyer
+13,Legal,13.03,Advisor/Outside Consultant
+13,Legal,13.04,Law Officer
+13,Legal,13.05,Legal Mgr
+13,Legal,13.06,Company Secretary
+13,Legal,13.07,Head/VP/GM-Legal
+13,Legal,13.08,Drug Regulatory Dr.
+13,Legal,13.09,Documentation/Medical Writing
+13,Legal,13.1,Regulatory Affairs Mgr
+13,Legal,13.11,Head/VP/GM-Regulatory Affairs
+13,Legal,13.14,Fresher
+13,Legal,13.15,Trainee
+,,,
+18,Packaging,18.01,Scientist
+18,Packaging,18.02,Packaging Development Exec./Mgr
+18,Packaging,18.03,Head/VP/GM-Packaging Development
+18,Packaging,18.04,Fresher
+18,Packaging,18.05,Trainee
+18,Packaging,18.07,Outside Consultant
+,,,
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.01,Clinical Research Associate/Scientist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.02,Clinical Research Mgr
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.03,Analytical Chemistry Associate/Scientist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.04,Analytical Chemistry Mgr
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.05,Chemical Research Associate/Scientist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.06,Chemical Research Mgr
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.07,Bio/Pharma Informatics-Associate/Scientist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.08,Formulation Scientist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.09,Microbiologist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.1,Molecular Biology
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.12,Nutritionist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.13,Research Scientist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.14,Bio-Tech Research Associate/Scientist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.15,Bio-Tech Research Mgr
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.16,Pharmacist/Chemist/Bio Chemist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.17,Bio-Statistician
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.18,Chief Medical Officer/Head MedicalServices
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.19,Clinical Researcher
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.2,Intern
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.21,Admin Services/Medical Facilities
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.22,Lab Technician/Medical Technician/LabStaff
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.23,Medical Officer
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.24,Nurse
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.25,Medical Superintendent/Director
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.26,Anaesthesist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.27,Cardiologist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.28,Dermatologist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.29,Dietician/Nutritionist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.3,ENT Specialist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.31,General Practitioner
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.32,Gynaeocologist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.33,Hepatologist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.34,Microbiologist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.35,Nephrologist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.36,Neurologist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.37,Oncologist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.38,Opthamologist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.39,Orthopaedist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.4,Paramedic
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.41,Pathologist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.42,Pediatrician
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.43,Pharmacist/Chemist/Bio Chemist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.44,Physiotherapist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.45,Psychiatrist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.46,Radiologist
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.47,Surgeon
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.48,Medical Rep.
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.49,Drug Regulatory Dr.
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.5,Documentation/Medical Writing
+16,Pharma / Biotech / Healthcare / Medical / R&D,16.51,Regulatory Affairs Mgr
+,,,
+14,Purchase / Logistics / Supply Chain,14.01,Store Keeper/Warehouse Assistant
+14,Purchase / Logistics / Supply Chain,14.02,Warehouse Mgr
+14,Purchase / Logistics / Supply Chain,14.03,CFA
+14,Purchase / Logistics / Supply Chain,14.04,Logistics Exec.
+14,Purchase / Logistics / Supply Chain,14.05,Logistics Mgr
+14,Purchase / Logistics / Supply Chain,14.06,Transport/Distribution Mgr
+14,Purchase / Logistics / Supply Chain,14.07,Purchase Exec.
+14,Purchase / Logistics / Supply Chain,14.08,Purchase/Vendor Development Mgr
+14,Purchase / Logistics / Supply Chain,14.09,Material Mgmt Exec./Mgr
+14,Purchase / Logistics / Supply Chain,14.1,Commercial Mgr
+14,Purchase / Logistics / Supply Chain,14.11,QA/QC Exec.
+14,Purchase / Logistics / Supply Chain,14.12,QA/QC Mgr
+14,Purchase / Logistics / Supply Chain,14.13,Commodity Trading Mgr
+14,Purchase / Logistics / Supply Chain,14.14,Head/VP/GM-SCM/Logistics
+14,Purchase / Logistics / Supply Chain,14.15,Head/VP/GM-Commercial
+14,Purchase / Logistics / Supply Chain,14.16,Head/VP/GM-Purchase/Material Mgmt
+14,Purchase / Logistics / Supply Chain,14.18,Trainee
+14,Purchase / Logistics / Supply Chain,14.19,Fresher
+,,,
+9,Self Employed / Consultants,9.01,CEO/MD/Director
+9,Self Employed / Consultants,9.02,Outside Consultant
+9,Self Employed / Consultants,9.03,Director
+9,Self Employed / Consultants,9.04,VP/President/Partner
+,,,
+36,Teaching / Education,36.01,Counsellor
+36,Teaching / Education,36.02,Lecturer/Professor
+36,Teaching / Education,36.03,Librarian
+36,Teaching / Education,36.04,Teacher/ Private Tutor
+36,Teaching / Education,36.05,Special Education Teacher
+36,Teaching / Education,36.06,Translator
+36,Teaching / Education,36.07,Transcriptionist
+36,Teaching / Education,36.09,Trainee
+36,Teaching / Education,36.1,Fresher
+,,,
+44,Ticketing / Travel / Airlines,44.01,Travel Agent
+44,Ticketing / Travel / Airlines,44.02,Reservations Exec.
+44,Ticketing / Travel / Airlines,44.03,Reservations Mgr
+44,Ticketing / Travel / Airlines,44.04,Tour Mngmt Exec.
+44,Ticketing / Travel / Airlines,44.05,Tour Mgmt Mgr/Sr. Mgr
+44,Ticketing / Travel / Airlines,44.06,Operations Exec.
+44,Ticketing / Travel / Airlines,44.07,BD Mgr
+44,Ticketing / Travel / Airlines,44.08,Mktg Mgr
+44,Ticketing / Travel / Airlines,44.09,Branch Mgr
+44,Ticketing / Travel / Airlines,44.1,Regional Mgr
+44,Ticketing / Travel / Airlines,44.11,General Mgr
+44,Ticketing / Travel / Airlines,44.12,Cashier/Billing Mgr
+44,Ticketing / Travel / Airlines,44.13,Operations Mgr
+44,Ticketing / Travel / Airlines,44.14,Cabin Crew
+44,Ticketing / Travel / Airlines,44.15,Ground Staff
+44,Ticketing / Travel / Airlines,44.16,Aviation Engnr
+44,Ticketing / Travel / Airlines,44.17,Maintenance Engnr
+44,Ticketing / Travel / Airlines,44.18,SBU/Profit Center Head
+44,Ticketing / Travel / Airlines,44.19,Head/VP/GM-Tour Management
+44,Ticketing / Travel / Airlines,44.2,CEO/MD/Director
+44,Ticketing / Travel / Airlines,44.22,Fresher
+44,Ticketing / Travel / Airlines,44.23,Trainee
+44,Ticketing / Travel / Airlines,44.24,Outside Consultant
+,,,
+39,Top Management,39.01,CEO/MD/Director
+39,Top Management,39.02,CIO
+39,Top Management,39.03,Creative Director
+39,Top Management,39.04,National Creative Director/VP-Creative
+39,Top Management,39.05,CTO/Head/VP-Technology (Telecom/ISP)
+39,Top Management,39.06,Executive/Master Chef
+39,Top Management,39.07,Head/VP/GM-Documentation/Shipping
+39,Top Management,39.08,Head/VP/GM-BD
+39,Top Management,39.09,Head/VP/GM-Relationships
+39,Top Management,39.1,Head/VP/GM-Transitions
+39,Top Management,39.11,Head/VP/GM-HR
+39,Top Management,39.12,Head/VP/GM-Training and Development
+39,Top Management,39.13,Head/VP/GM-Technology (IT)/CTO
+39,Top Management,39.14,Head/Mgr/GM-Media Buying
+39,Top Management,39.15,Head/Mgr/GM-Media Planning
+39,Top Management,39.16,Head/VP/GM-Operations
+39,Top Management,39.17,Head/VP/GM-SCM/Logistics
+39,Top Management,39.18,Head/VP/GM-Admin & Facilities
+39,Top Management,39.19,Head/VP/GM-Commercial
+39,Top Management,39.2,Head/VP/GM-Mktg
+39,Top Management,39.21,Head/VP/GM- MR
+39,Top Management,39.22,Head/VP/GM- Purchase/Material Mgmt
+39,Top Management,39.23,Head/VP/GM -Accounts
+39,Top Management,39.24,Head/VP/GM -F&B
+39,Top Management,39.25,Head/VP/GM-Business Alliances
+39,Top Management,39.26,Head/VP/GM-Finance/Audit
+39,Top Management,39.27,Head/VP/GM-Investment Banking
+39,Top Management,39.29,Head/VP/GM-Private Equity/HedgeFund/VC
+39,Top Management,39.3,Head/VP/GM-Project Finance
+39,Top Management,39.31,Head/VP/GM-QA&QC
+39,Top Management,39.32,Head/VP/GM-Quality
+39,Top Management,39.33,Head/VP/GM-Sales
+39,Top Management,39.34,Head/VP/GM-Underwritting
+39,Top Management,39.36,Head/VP/GM-Fund Mgmt
+39,Top Management,39.37,Head/VP/GM -Credit/Risk
+39,Top Management,39.38,Head/VP/GM-Depository Services
+39,Top Management,39.39,Head/VP/GM-Legal
+39,Top Management,39.4,Head/VP/GM-Production/Manufacturing/Maintenance
+39,Top Management,39.41,Head/VP/GM-Tour Mgmt
+39,Top Management,39.42,Head/VP/-PR/Corp. Communication
+39,Top Management,39.43,Head/VP/GM-Broking
+39,Top Management,39.44,Head/VP/GM-CFO/Financial Controller
+39,Top Management,39.45,Head/VP/GM-Credit
+39,Top Management,39.46,Head/VP/GM-R&D
+39,Top Management,39.47,Head/VP/GM-Regulatory Affairs
+39,Top Management,39.48,Head/VP/GM-Claims
+39,Top Management,39.49,Head/VP/GM-Client Servicing
+39,Top Management,39.5,Head/VP/GM-Equity
+39,Top Management,39.51,Head/VP/GM-Mergers & Acquisitions
+39,Top Management,39.52,Head/VP/GM-Packaging Development
+39,Top Management,39.53,Head/VP/GM-CorporatePlanning/Strategy
+39,Top Management,39.54,Head/VP/GM-Production
+39,Top Management,39.55,Head/VP/GM-Treasury
+39,Top Management,39.56,Head/VP/GM-Corporate Advisory
+39,Top Management,39.57,Head/VP/GM-Domestic Debt
+39,Top Management,39.58,Head/VP/GM-Formulations
+39,Top Management,39.59,Head/VP/GM-Insurance Operations
+39,Top Management,39.6,Head/VP/GM-Offshore Debt
+39,Top Management,39.61,Head/VP/GM/National Manager-Sales
+39,Top Management,39.62,SBU/Profit Center Head
+39,Top Management,39.63,Service Delivery Leader
+39,Top Management,39.64,VP/President/Partner
+39,Top Management,39.65,Head/VP/GM-Recruitment
+,,,
+43,TV / Films / Production,43.01,News Anchor/TV Presenter
+43,TV / Films / Production,43.02,News Compiler
+43,TV / Films / Production,43.03,Correspondent
+43,TV / Films / Production,43.04,Sr/Principal Coresspondent
+43,TV / Films / Production,43.05,News Editor
+43,TV / Films / Production,43.06,News/Features Head
+43,TV / Films / Production,43.07,Spot Boy
+43,TV / Films / Production,43.08,Animation/Graphic Artist
+43,TV / Films / Production,43.09,Stunt Coordinator
+43,TV / Films / Production,43.1,Wardrobe/Make-Up/Hair Artist
+43,TV / Films / Production,43.11,AV Editor
+43,TV / Films / Production,43.12,Visualiser
+43,TV / Films / Production,43.13,Sound Mixer/Engr
+43,TV / Films / Production,43.14,Locations Mgr
+43,TV / Films / Production,43.15,Lighting Technician
+43,TV / Films / Production,43.16,Special Effects Technician
+43,TV / Films / Production,43.17,Photographer
+43,TV / Films / Production,43.18,Camera Man/Technician
+43,TV / Films / Production,43.19,Choreographer
+43,TV / Films / Production,43.2,Asst. Editor/Editor
+43,TV / Films / Production,43.21,Head-Lighting
+43,TV / Films / Production,43.22,Head-Special Effects
+43,TV / Films / Production,43.23,Music Director
+43,TV / Films / Production,43.24,Cinematographer
+43,TV / Films / Production,43.25,Asst. Director/Director
+43,TV / Films / Production,43.26,TV Producer
+43,TV / Films / Production,43.27,Film Producer
+43,TV / Films / Production,43.29,Fresher
+43,TV / Films / Production,43.3,Trainee
+,,,
+3,Web / GraphicDesign / Visualiser,3.01,Art Director/Sr Art Director
+3,Web / GraphicDesign / Visualiser,3.02,Visualiser
+3,Web / GraphicDesign / Visualiser,3.03,Web Designer
+3,Web / GraphicDesign / Visualiser,3.04,Copywriter
+3,Web / GraphicDesign / Visualiser,3.05,Graphic Designer
+3,Web / GraphicDesign / Visualiser,3.06,Creative Director
+3,Web / GraphicDesign / Visualiser,3.07,National Creative Director/VP-Creative
+3,Web / GraphicDesign / Visualiser,3.08,Commercial Artist
+3,Web / GraphicDesign / Visualiser,3.1,Fresher
+3,Web / GraphicDesign / Visualiser,3.11,Trainee
+,,,
+41,Other,41.01,Other

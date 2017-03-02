@@ -1,0 +1,103 @@
+ugCourseId,ugCourse,ugSpecId,ugSpec
+18,Any Graduate,114,Any Specialization
+17,Graduation Not Required,109,None
+1,B.A,1,Arts&Humanities
+1,B.A,2,Communication
+1,B.A,3,Economics
+1,B.A,4,English
+1,B.A,5,Film
+1,B.A,6,Fine Arts
+1,B.A,7,Hindi
+1,B.A,8,History
+1,B.A,9,Journalism
+1,B.A,10,Maths
+1,B.A,11,Pass Course
+1,B.A,12,Political Science
+1,B.A,13,PR/Advertising
+1,B.A,14,Psychology
+1,B.A,15,Sanskrit
+1,B.A,16,Sociology
+1,B.A,17,Statistics
+1,B.A,18,Vocational Course
+1,B.A,19,Other Specialization
+1,B.A,110,Any Specialization
+2,B.Arch,20,Architechture
+4,B.B.A,24,Management
+5,B.Com,26,Commerce
+6,B.Ed,28,Education
+9,B.Pharma,34,Pharmacy
+10,B.Sc,36,Agriculture
+10,B.Sc,37,Anthropology
+10,B.Sc,38,Bio-Chemistry
+10,B.Sc,39,Biology
+10,B.Sc,40,Botany
+10,B.Sc,41,Chemistry
+10,B.Sc,42,Computers
+10,B.Sc,43,Dairy Technology
+10,B.Sc,44,Electronics
+10,B.Sc,45,Environmental science
+10,B.Sc,46,Food Technology
+10,B.Sc,47,Geology
+10,B.Sc,48,Home science
+10,B.Sc,49,Maths
+10,B.Sc,50,Microbiology
+10,B.Sc,51,Nursing
+10,B.Sc,52,Physics
+10,B.Sc,53,Statistics
+10,B.Sc,54,Zoology
+10,B.Sc,55,General
+10,B.Sc,56,Other Specialization
+10,B.Sc,111,Any Specialization
+11,B.Tech/B.E.,57,Agriculture
+11,B.Tech/B.E.,58,Automobile
+11,B.Tech/B.E.,59,Aviation
+11,B.Tech/B.E.,60,Bio-Chemistry/Bio-Technology
+11,B.Tech/B.E.,61,Biomedical
+11,B.Tech/B.E.,62,Ceramics
+11,B.Tech/B.E.,63,Chemical
+11,B.Tech/B.E.,64,Civil
+11,B.Tech/B.E.,65,Computers
+11,B.Tech/B.E.,66,Electrical
+11,B.Tech/B.E.,67,Electronics/Telecomunication
+11,B.Tech/B.E.,68,Energy
+11,B.Tech/B.E.,69,Environmental
+11,B.Tech/B.E.,70,Instrumentation
+11,B.Tech/B.E.,71,Marine
+11,B.Tech/B.E.,72,Mechanical
+11,B.Tech/B.E.,73,Metallurgy
+11,B.Tech/B.E.,74,Mineral
+11,B.Tech/B.E.,75,Mining
+11,B.Tech/B.E.,76,Nuclear
+11,B.Tech/B.E.,77,Paint/Oil
+11,B.Tech/B.E.,78,Petroleum
+11,B.Tech/B.E.,79,Plastics
+11,B.Tech/B.E.,80,Production/Industrial
+11,B.Tech/B.E.,81,Textile
+11,B.Tech/B.E.,82,Other Specialization
+11,B.Tech/B.E.,112,Any Specialization
+3,BCA,22,Computers
+7,BDS,30,Dentistry
+8,BHM,32,Hotel Management
+15,BVSC,106,Veterinary Science
+14,Diploma,88,Architecture
+14,Diploma,89,Chemical
+14,Diploma,90,Civil
+14,Diploma,91,Computers
+14,Diploma,92,Electrical
+14,Diploma,93,Electronics/Telecomunication
+14,Diploma,94,Engineering
+14,Diploma,95,Export/Import
+14,Diploma,96,Fashion Designing/Other Designing
+14,Diploma,97,Graphic/ Web Designing
+14,Diploma,98,Hotel Management
+14,Diploma,99,Insurance
+14,Diploma,100,Management
+14,Diploma,101,Mechanical
+14,Diploma,102,Tourism
+14,Diploma,103,Visual Arts
+14,Diploma,104,Vocational Course
+14,Diploma,105,Other Specialization
+14,Diploma,113,Any Specialization
+12,LLB,84,Law
+13,MBBS,86,Medicine
+16,Other Graduate,108,Any Specialization

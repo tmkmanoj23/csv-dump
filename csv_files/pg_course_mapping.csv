@@ -1,0 +1,128 @@
+pgId,pgCourse,pgSpecId,pgSpec
+,,,
+19,Any PG Course,130,Any Specialization
+20,Post Graduation Not Required,139,None
+1,CA,1,CA
+2,CS,3,CS
+3,ICWA,5,ICWA
+4,Integrated PG,7,Journalism / Mass Communication
+4,Integrated PG,8,Management
+4,Integrated PG,9,PR/ Advertising
+4,Integrated PG,10,Tourism
+4,Integrated PG,11,Other
+4,Integrated PG,132,Any Specialization
+5,LLM,12,Law
+6,M.A,14,Anthropology
+6,M.A,15,Arts & Humanities
+6,M.A,16,Communication
+6,M.A,17,Economics
+6,M.A,18,English
+6,M.A,19,Film
+6,M.A,20,Fine arts
+6,M.A,21,Hindi
+6,M.A,22,History
+6,M.A,23,Journalism
+6,M.A,24,Maths
+6,M.A,25,Political Science
+6,M.A,26,PR/ Advertising
+6,M.A,27,Psychology
+6,M.A,28,Sanskrit
+6,M.A,29,Sociology
+6,M.A,30,Statistics
+6,M.A,31,Other
+6,M.A,133,Any Specialization
+7,M.Arch,32,Architecture
+8,M.Com,34,Commerce
+9,M.Ed,36,Education
+10,M.Pharma,38,Pharmacy
+11,M.Sc,40,Agriculture
+11,M.Sc,41,Anthropology
+11,M.Sc,42,Bio-Chemistry
+11,M.Sc,43,Biology
+11,M.Sc,44,Botany
+11,M.Sc,45,Chemistry
+11,M.Sc,46,Computers
+11,M.Sc,47,Dairy Technology
+11,M.Sc,48,Electronics
+11,M.Sc,49,Environmental science
+11,M.Sc,50,Food Technology
+11,M.Sc,51,Geology
+11,M.Sc,52,Home science
+11,M.Sc,53,Maths
+11,M.Sc,54,Microbiology
+11,M.Sc,55,Nursing
+11,M.Sc,56,Physics
+11,M.Sc,57,Statistics
+11,M.Sc,58,Zoology
+11,M.Sc,59,Other
+11,M.Sc,134,Any Specialization
+12,M.Tech,60,Agriculture
+12,M.Tech,61,Automobile
+12,M.Tech,62,Aviation
+12,M.Tech,63,Bio-Chemistry/Bio-Technology
+12,M.Tech,64,Biomedical
+12,M.Tech,65,Ceramics
+12,M.Tech,66,Chemical
+12,M.Tech,67,Civil
+12,M.Tech,68,Computers
+12,M.Tech,69,Electrical
+12,M.Tech,70,Electronics/Telecomunication
+12,M.Tech,71,Energy
+12,M.Tech,72,Environmental
+12,M.Tech,73,Instrumentation
+12,M.Tech,74,Marine
+12,M.Tech,75,Mechanical
+12,M.Tech,76,Metallurgy
+12,M.Tech,77,Mineral
+12,M.Tech,78,Mining
+12,M.Tech,79,Nuclear
+12,M.Tech,80,Paint/Oil
+12,M.Tech,81,Petroleum
+12,M.Tech,82,Plastics
+12,M.Tech,83,Production/Industrial
+12,M.Tech,84,Textile
+12,M.Tech,85,Other Engineering
+12,M.Tech,135,Any Specialization
+13,MBA/PGDM,87,Advertising/Mass Communication
+13,MBA/PGDM,88,Finance
+13,MBA/PGDM,89,HR/Industrial Relations
+13,MBA/PGDM,90,Information Technology
+13,MBA/PGDM,91,International Business
+13,MBA/PGDM,92,Marketing
+13,MBA/PGDM,93,Systems
+13,MBA/PGDM,94,Other Management
+13,MBA/PGDM,136,Any Specialization
+14,MCA,96,Computers
+15,M.S/M.D,98,Cardiology
+15,M.S/M.D,99,Dermatology
+15,M.S/M.D,100,ENT
+15,M.S/M.D,101,General Practitioner
+15,M.S/M.D,102,Gyneocology
+15,M.S/M.D,103,Hepatology
+15,M.S/M.D,104,Immunology
+15,M.S/M.D,105,Microbiology
+15,M.S/M.D,106,Neonatal
+15,M.S/M.D,107,Nephrology
+15,M.S/M.D,108,Urology
+15,M.S/M.D,109,Obstretrics
+15,M.S/M.D,110,Oncology
+15,M.S/M.D,111,Opthalmology
+15,M.S/M.D,112,Orthopaedic
+15,M.S/M.D,113,Pathology
+15,M.S/M.D,114,Pediatrics
+15,M.S/M.D,115,Psychiatry
+15,M.S/M.D,116,psychology
+15,M.S/M.D,117,Radiology
+15,M.S/M.D,118,Rheumatology
+15,M.S/M.D,119,Other
+15,M.S/M.D,137,Any Specialization
+17,MVSC,127,Veterinary Science
+16,PG Diploma,120,Chemical
+16,PG Diploma,121,Civil
+16,PG Diploma,122,Computers
+16,PG Diploma,123,Electrical
+16,PG Diploma,124,Electronics
+16,PG Diploma,125,Mechanical
+16,PG Diploma,126,Other
+16,PG Diploma,138,Any Specialization
+18,Other,129,Other
