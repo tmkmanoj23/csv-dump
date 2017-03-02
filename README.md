@@ -9,7 +9,7 @@ then goto terminal and run -
 node updater.js <directorypath-to-csvfiles>
 
 for example
-node updater.js /home/lightbringer/Desktop/incture/recruitment/NaukriData
+node updater.js ./csv_files/
  
 ** to delete multiple collections from db run this in mongo shell
 
